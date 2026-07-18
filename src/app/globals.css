@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+:root {
+  --forest: #173f32;
+  --forest-strong: #0f2f25;
+  --leaf: #e4f0e9;
+  --leaf-strong: #c9dfd1;
+  --sand: #f5eedf;
+  --gold: #9a6d24;
+  --ink: #1f2925;
+  --muted: #66716c;
+  --line: #d9dfdc;
+  --surface: #ffffff;
+  --soft: #f6f8f7;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--surface);
+  color: var(--ink);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a,
+button,
+input,
+select,
+textarea {
+  outline-color: var(--gold);
+  outline-offset: 3px;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid #b98a3d;
+}
+
+button,
+select {
+  cursor: pointer;
+}
+
+.page-shell {
+  margin: 0 auto;
+  width: min(100% - 2rem, 78rem);
+}
+
+.map-grid {
+  background-color: #eef3ef;
+  background-image:
+    linear-gradient(rgba(23, 63, 50, 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(23, 63, 50, 0.09) 1px, transparent 1px),
+    linear-gradient(27deg, transparent 44%, rgba(154, 109, 36, 0.18) 45%, rgba(154, 109, 36, 0.18) 47%, transparent 48%);
+  background-size: 32px 32px, 32px 32px, 180px 180px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
