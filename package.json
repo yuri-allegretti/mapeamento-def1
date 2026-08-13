@@ -4,17 +4,20 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run import:data:check && next build",
     "start": "next start",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "next typegen && tsc --noEmit",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "import:data": "node scripts/import-establishments.mjs",
+    "import:data:check": "node scripts/import-establishments.mjs --check"
   },
   "dependencies": {
-    "next": "latest",
+    "next": "^16.3.0",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "read-excel-file": "^9.3.10"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "latest",

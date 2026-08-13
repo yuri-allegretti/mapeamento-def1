@@ -1,33 +1,24 @@
 import Link from "next/link";
-import type { Establishment, PartnerBenefit } from "@/data/types";
+import type { Establishment } from "@/data/types";
 import { establishmentRoute } from "@/lib/routes";
-import { WalkingTime } from "./WalkingTime";
-import { VrList } from "./VrList";
+import { CopyAddressButton } from "./CopyAddressButton";
+import { Distance } from "./Distance";
+import { Rating } from "./Rating";
 
-export function EstablishmentCard({ establishment, benefit, returnQuery, selected = false, onSelect }: { establishment: Establishment; benefit?: PartnerBenefit; returnQuery?: string; selected?: boolean; onSelect?: () => void }) {
+export function EstablishmentCard({ establishment, returnQuery }: { establishment: Establishment; returnQuery?: string }) {
   const params = new URLSearchParams({ from: "onde-comer" });
   if (returnQuery) params.set("returnQuery", returnQuery);
-
   return (
-    <article className={`border bg-white p-5 ${selected ? "border-[var(--gold)] ring-2 ring-amber-100" : "border-[var(--line)]"}`} onMouseEnter={onSelect} onFocus={onSelect}>
-      <div className="flex gap-4">
-        <div className="h-24 w-28 shrink-0 border border-[var(--line)] bg-[var(--soft)] text-xs text-[var(--muted)]"><span className="flex h-full items-center justify-center">Foto futura</span></div>
-        <div className="min-w-0 flex-1">
-          <div className="flex items-start justify-between gap-3">
-            <div>
-              <p className="text-xs font-bold uppercase tracking-wide text-[var(--muted)]">{establishment.food?.cuisine}</p>
-              <h2 className="mt-1 text-xl font-bold text-[var(--forest)]">{establishment.name}</h2>
-            </div>
-            <WalkingTime minutes={establishment.walkingMinutes} compact />
-          </div>
-          <p className="mt-2 text-sm text-[var(--muted)]">Ticket demonstrativo: R$ {establishment.food?.ticketMin}–{establishment.food?.ticketMax}</p>
-          {establishment.food && <div className="mt-2"><VrList cards={establishment.food.vrCards} compact /></div>}
-        </div>
-      </div>
-      {benefit && <p className="mt-4 bg-[var(--sand)] px-3 py-2 text-sm font-bold text-[var(--gold)]">{benefit.title} · demonstrativo</p>}
-      <div className="mt-4 flex flex-wrap gap-2">
-        <a href={establishment.googleMapsUrl} target="_blank" rel="noopener noreferrer" className="flex min-h-11 items-center bg-[var(--forest)] px-4 text-sm font-bold text-white">Como chegar</a>
-        <Link href={`${establishmentRoute(establishment.slug)}?${params}`} className="flex min-h-11 items-center border border-[var(--forest)] px-4 text-sm font-bold text-[var(--forest)]">Ver detalhes</Link>
+    <article className="card-surface card-interactive flex h-full flex-col p-5">
+      <p className="eyebrow">{establishment.type}</p>
+      <h2 className="mt-1 text-xl font-bold text-[var(--forest)]">{establishment.name}</h2>
+      <div className="mt-2"><Rating rating={establishment.rating} compact /></div>
+      <div className="mt-3"><Distance meters={establishment.distanceMeters} compact /></div>
+      <p className="mt-3 w-fit rounded-full bg-[var(--soft)] px-3 py-1.5 text-xs font-semibold text-[var(--muted)]">{establishment.food?.ticket ? `Ticket R$ ${establishment.food.ticket.min}–${establishment.food.ticket.max}` : "Ticket não informado"}</p>
+      <p className="mt-3 text-sm leading-6 text-[var(--muted)]">{establishment.address.line}</p>
+      <div className="mt-auto flex flex-wrap gap-2 pt-5">
+        <CopyAddressButton address={establishment.address} />
+        <Link href={`${establishmentRoute(establishment.slug)}?${params}`} className="button-secondary">Ver detalhes</Link>
       </div>
     </article>
   );

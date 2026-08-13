@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "est_7554bc0d8591731e",
+    "slug": "aabb-curitiba",
+    "legacySlugs": [],
+    "name": "AABB Curitiba",
+    "type": "Clube",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Clube"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 771",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3019-2129",
+    "phoneUrl": "tel:+554130192129",
+    "websiteUrl": "https://curitiba.aabb.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=AABB%20Curitiba&query_place_id=ChIJDyZFTWnl3JQRmVXeWsMzAIA",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 1190,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJDyZFTWnl3JQRmVXeWsMzAIA"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 36
+      }
+    ]
+  },
+  {
+    "id": "est_cde35903d1cdd5bd",
+    "slug": "academia-de-kung-fu-tigre-de-diamante",
+    "legacySlugs": [],
+    "name": "Academia de Kung-Fu Tigre de Diamante",
+    "type": "Academia de artes marciais",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia de artes marciais"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 711",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99896-7600",
+    "phoneUrl": "tel:+5541998967600",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academia%20de%20Kung-Fu%20Tigre%20de%20Diamante&query_place_id=ChIJ2_vR7Rzl3JQRzV20bcanKuo",
+    "rating": {
+      "value": 5,
+      "reviewCount": 34,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJ2_vR7Rzl3JQRzV20bcanKuo"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 11
+      }
+    ]
+  },
+  {
+    "id": "est_fbfe6297c052ab5d",
+    "slug": "academia-smart-fit-taruma",
+    "legacySlugs": [],
+    "name": "Academia Smart Fit - Tarumã",
+    "type": "Academia",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia",
+      "Programa de condicionamento físico"
+    ],
+    "address": {
+      "line": "Av. Affonso Penna, 648",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "websiteUrl": "https://www.smartfit.com.br/academias/taruma/?utm_source=google&utm_medium=maps&utm_campaign=fbiz-SBRPRCTAR01",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Academia%20Smart%20Fit%20-%20Tarum%C3%A3&query_place_id=ChIJoWNnRoR_mQARLH92NJhLJE4",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 787,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJoWNnRoR_mQARLH92NJhLJE4"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 33
+      }
+    ]
+  },
+  {
+    "id": "est_85764df33fb80bdd",
+    "slug": "area-cac-despachante-belico-e-pce-s",
+    "legacySlugs": [],
+    "name": "Área CAC - Despachante Bélico e PCE's",
+    "type": "Despachante",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Despachante",
+      "Consultoria"
+    ],
+    "address": {
+      "line": "R. Arcésio Guimarães",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99924-1632",
+    "phoneUrl": "tel:+5541999241632",
+    "websiteUrl": "https://areacac.com.br/despachante-de-armas-em-curitiba/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=%C3%81rea%20CAC%20-%20Despachante%20B%C3%A9lico%20e%20PCE's&query_place_id=ChIJc-eBs1Pl3JQRPHWkmnZYteo",
+    "rating": {
+      "value": 5,
+      "reviewCount": 42,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJc-eBs1Pl3JQRPHWkmnZYteo"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 17
+      }
+    ]
+  },
+  {
+    "id": "est_1e99b7e6cf71f5ec",
+    "slug": "arroba-lavanderia-lavanderia-em-curitiba",
+    "legacySlugs": [],
+    "name": "Arroba Lavanderia - Lavanderia em Curitiba",
+    "type": "Serviço de lavanderia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Serviço de lavanderia",
+      "Lavanderia a seco",
+      "Lavanderia",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Av. São José, 795",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98864-8085",
+    "phoneUrl": "tel:+5541988648085",
+    "websiteUrl": "https://lavanderiaemcuritiba.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Arroba%20Lavanderia%20-%20Lavanderia%20em%20Curitiba&query_place_id=ChIJOUx_c7zl3JQRAQdLSziQWsQ",
+    "rating": {
+      "value": 5,
+      "reviewCount": 38,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1400,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJOUx_c7zl3JQRAQdLSziQWsQ"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 13
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 24
+      }
+    ]
+  },
+  {
+    "id": "est_00f6303c7f5902c4",
+    "slug": "artha-hospital",
+    "legacySlugs": [],
+    "name": "Artha Hospital",
+    "type": "Hospital",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Hospital",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "R. Pref. Ângelo Lopes, 1183",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3264-5235",
+    "phoneUrl": "tel:+554132645235",
+    "websiteUrl": "https://hospitalartha.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Artha+Hospital,+R.+Pref.+%C3%82ngelo+Lopes,+1183+-+Alto+da+XV,+Curitiba+-+PR,+80040-240&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 24,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 5
+      }
+    ]
+  },
+  {
+    "id": "est_c119e87e6f83381e",
+    "slug": "assai-atacadista-cristo-rei",
+    "legacySlugs": [],
+    "name": "Assaí Atacadista - Cristo Rei",
+    "type": "Atacadista",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados"
+    ],
+    "categoryTags": [
+      "Atacadista",
+      "Supermercados"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 230",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3142-7071",
+    "phoneUrl": "tel:+554131427071",
+    "websiteUrl": "https://www.assai.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/LstGyJf35BXKS45o9",
+    "rating": {
+      "value": 4,
+      "reviewCount": 1628,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1000,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 2
+      }
+    ]
+  },
+  {
+    "id": "est_f51f9523d6e271fe",
+    "slug": "auto-estofamento-cristo-rei",
+    "legacySlugs": [],
+    "name": "Auto Estofamento Cristo Rei",
+    "type": "Estofamento automotivo",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Estofamento automotivo"
+    ],
+    "address": {
+      "line": "Rua Manoel Vicente de Oliveira Mello, 1478",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3362-4654",
+    "phoneUrl": "tel:+554133624654",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Auto%20Estofamento%20Cristo%20Rei&query_place_id=ChIJw9EPrajl3JQRWOfbzlor_Wk",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 53,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJw9EPrajl3JQRWOfbzlor_Wk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 20
+      }
+    ]
+  },
+  {
+    "id": "est_49e059e5d2fbdc06",
+    "slug": "banco-do-brasil-alto-da-xv-agencia-2926",
+    "legacySlugs": [],
+    "name": "BANCO DO BRASIL - ALTO DA XV - Agência 2926",
+    "type": "Banco",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Banco",
+      "Bancos, Correios e Lotéricas"
+    ],
+    "address": {
+      "line": "R. XV de Novembro, 2686",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 4003-3001",
+    "phoneUrl": "tel:+554140033001",
+    "websiteUrl": "http://www.bb.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/uRCB2nr9A22FQEPN8",
+    "rating": {
+      "value": 2.9,
+      "reviewCount": 56,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1600,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 17
+      }
+    ]
+  },
+  {
+    "id": "est_44402b79e07133f1",
+    "slug": "banco24horas",
+    "legacySlugs": [],
+    "name": "Banco24Horas",
+    "type": "Caixa eletrônico",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Caixa eletrônico",
+      "Banco",
+      "Bancos, Correios e Lotéricas"
+    ],
+    "address": {
+      "line": "C, Av. Mal. Humberto de Alencar Castelo Branco, 230",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 800 56 2400",
+    "phoneUrl": "tel:+55800562400",
+    "websiteUrl": "https://www.banco24horas.com.br/para-voce/encontre-um-caixa/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Banco24Horas&query_place_id=ChIJUyjyd7Ll3JQRuUfmQ5uBD0s",
+    "rating": {
+      "value": 5,
+      "reviewCount": 1,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJUyjyd7Ll3JQRuUfmQ5uBD0s"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 2
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 15
+      }
+    ]
+  },
+  {
+    "id": "est_131b0e95755a7108",
+    "slug": "barraca-do-claudio",
+    "legacySlugs": [],
+    "name": "Barraca do Claudio",
+    "type": "Restaurante fast-food",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante fast-food",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 348",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3114-5932",
+    "phoneUrl": "tel:+554131145932",
+    "websiteUrl": "https://www.instagram.com/barracadoclaudio_",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Barraca+do+Claudio+-+Av.+Victor+Ferreira+do+Amaral,+348+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 471,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 80,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 40,
+        "max": 60,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 43
+      }
+    ]
+  },
+  {
+    "id": "est_e2ef7c8c17bf1dc5",
+    "slug": "bibi-brindes",
+    "legacySlugs": [],
+    "name": "Bibi Brindes",
+    "type": "Loja de artigos para festas",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Loja de artigos para festas"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 892",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3149-0838",
+    "phoneUrl": "tel:+554131490838",
+    "websiteUrl": "http://bibiartigosparafestas.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bibi%20Brindes&query_place_id=ChIJq6p6GaXl3JQRZkdteKqmWus",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 813,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJq6p6GaXl3JQRZkdteKqmWus"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 34
+      }
+    ]
+  },
+  {
+    "id": "est_7d2d59b00ed591ca",
+    "slug": "bosque-de-portugal",
+    "legacySlugs": [],
+    "name": "Bosque de Portugal 🇵🇹",
+    "type": "Parque",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "R. Fagundes Varela, 774",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3350-9630",
+    "phoneUrl": "tel:+554133509630",
+    "websiteUrl": "http://www.curitiba.pr.gov.br/servicos/cidadao/equipamento/bosque-de-portugal/1247",
+    "googleMapsUrl": "https://maps.app.goo.gl/kAKnywAP9uSBdQYt8",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 1506,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 2900,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 35
+      }
+    ]
+  },
+  {
+    "id": "est_27339d580c138759",
+    "slug": "briller-lavanderia-self-service",
+    "legacySlugs": [],
+    "name": "Briller Lavanderia Self-Service",
+    "type": "Lavanderia automática",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia automática",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Supermercado Condor - Rua Fioravante Dalla Stella, 66",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 08 00000-3692",
+    "phoneUrl": "tel:+5508000003692",
+    "websiteUrl": "https://brillerlavanderia.com/",
+    "googleMapsUrl": "https://maps.app.goo.gl/TbYUa1kYBWXxbmCd7",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 59,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1800,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 25
+      }
+    ]
+  },
+  {
+    "id": "est_50ee67b315ad84b4",
+    "slug": "caixa-economica-federal",
+    "legacySlugs": [],
+    "name": "Caixa Econômica Federal",
+    "type": "Correios",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Correios",
+      "Bancos, Correios e Lotéricas"
+    ],
+    "address": {
+      "line": "R. XV de Novembro, 2831",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "4003-1043",
+    "phoneUrl": "tel:40031043",
+    "googleMapsUrl": "https://maps.app.goo.gl/MAUfPtUcrjGSJsEWA",
+    "distanceMeters": 1500,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 13
+      }
+    ]
+  },
+  {
+    "id": "est_a0ef5e15455b7a02",
+    "slug": "caixa-eletronico-bradesco",
+    "legacySlugs": [],
+    "name": "Caixa Eletrônico Bradesco",
+    "type": "Caixa eletrônico",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Caixa eletrônico",
+      "Bancos, Correios e Lotéricas"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1088",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caixa%20Eletr%C3%B4nico%20Bradesco&query_place_id=ChIJvQGNjKTl3JQROM7ENtFkew8",
+    "rating": {
+      "value": 1,
+      "reviewCount": 1,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJvQGNjKTl3JQROM7ENtFkew8"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 3
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 16
+      }
+    ]
+  },
+  {
+    "id": "est_5453bd01895cfb32",
+    "slug": "caldo-de-cana-praca-das-nacoes",
+    "legacySlugs": [],
+    "name": "Caldo de Cana Praça das Nações",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Praça das Nações, 805",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps/place/Caldo+de+Cana+Pra%C3%A7a+das+Na%C3%A7%C3%B5es/@-25.427204,-49.2450855,17z/data=!3m1!4b1!4m6!3m5!1s0x94dce5075f9c77fb:0xf114747852dfce9a!8m2!3d-25.427204!4d-49.2425106!16s%2Fg%2F11l4pr6jpy?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 86,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 750,
+    "food": {
+      "group": "Alimentação - fast food e outros"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 49
+      }
+    ]
+  },
+  {
+    "id": "est_54e779018c0f5bad",
+    "slug": "casa-di-pao-sem-gluten",
+    "legacySlugs": [],
+    "name": "Casa di pão sem glúten - Curitiba",
+    "type": "Padaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Padaria",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. Sen. Souza Naves, 1785",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99161-1771",
+    "phoneUrl": "tel:+5541991611771",
+    "websiteUrl": "http://www.casadipao.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Casa+di+p%C3%A3o+sem+gl%C3%BAten+-+Curitiba,+Av.+Sen.+Souza+Naves,+1785+-+loja+01+-+Cristo+Rei,+Curitiba+-+PR,+80050-152&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 118,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 950,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 28
+      }
+    ]
+  },
+  {
+    "id": "est_71b76116c05db844",
+    "slug": "casa-eve",
+    "legacySlugs": [],
+    "name": "Casa Eve",
+    "type": "Casa de chá",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Casa de chá",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "R. Alexandre de Gusmão, 586",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Casa+Eve,+R.+Alexandre+de+Gusm%C3%A3o,+586+-+Jardim+Social,+Curitiba+-+PR,+82530-050&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 5,
+      "reviewCount": 19,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 600,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 37
+      }
+    ]
+  },
+  {
+    "id": "est_13da93aabc66a311",
+    "slug": "cei-joao-e-maria-baby-taruma",
+    "legacySlugs": [],
+    "name": "CEI João e Maria - Baby- Tarumã",
+    "type": "Escola mista",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Escola mista",
+      "Cuidador(a) infantil",
+      "Creche",
+      "Serviço de creche",
+      "Pré-escola",
+      "Colégio privado"
+    ],
+    "address": {
+      "line": "Av. Affonso Penna, 990",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99896-1619",
+    "phoneUrl": "tel:+5541998961619",
+    "websiteUrl": "https://centrojoaoemaria.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CEI%20Jo%C3%A3o%20e%20Maria%20-%20Baby-%20Tarum%C3%A3&query_place_id=ChIJ6ysxHBrl3JQRtf3u8aTXuKw",
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJ6ysxHBrl3JQRtf3u8aTXuKw"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 39
+      }
+    ]
+  },
+  {
+    "id": "est_421c59362de08254",
+    "slug": "centro-de-nefrologia-nacoes",
+    "legacySlugs": [],
+    "name": "Centro de Nefrologia Nações",
+    "type": "Nefrologista",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Nefrologista",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 131",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-7658",
+    "phoneUrl": "tel:+554132627658",
+    "websiteUrl": "https://nefrologianacoes.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Centro+de+Nefrologia+Na%C3%A7%C3%B5es,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+131+-+Cristo+Rei,+Curitiba+-+PR,+82530-020&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAg-f4xRps7j0uamGPnxlmgFXAkETAG-mRYwu_UWm4peAalQA92tkKLlmGzPtUM9UjERleWdhnmvMCojW40PzsvOAwPI6HypRbJMhRlk2Vc3W9ffuoQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 36,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 600,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 4
+      }
+    ]
+  },
+  {
+    "id": "est_4a937cce6f17b098",
+    "slug": "churras-express-assai",
+    "legacySlugs": [],
+    "name": "Churras Express (Assaí)",
+    "type": "Restaurante familiar",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante familiar",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 230",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99838-0250",
+    "phoneUrl": "tel:+5541998380250",
+    "websiteUrl": "https://churrasexpress.com.br/unidades/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Churras+Express+(Assa%C3%AD),+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+230+-+Cristo+Rei,+Curitiba+-+PR,+82530-010&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 3,
+      "reviewCount": 42,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 800,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 40
+      }
+    ]
+  },
+  {
+    "id": "est_5be2acd122f7caa1",
+    "slug": "churrascaria-recanto-gaucho",
+    "legacySlugs": [],
+    "name": "Churrascaria Recanto Gaúcho",
+    "type": "Churrascaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Churrascaria",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 247",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3263-4445",
+    "phoneUrl": "tel:+554132634445",
+    "websiteUrl": "http://www.churrascariarecantogaucho.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Churrascaria+Recanto+Ga%C3%BAcho,+Av.+Victor+Ferreira+do+Amaral,+247+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 14059,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 300,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 80,
+        "max": 100,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 17
+      }
+    ]
+  },
+  {
+    "id": "est_77951fb2d169976b",
+    "slug": "cintia-cakes",
+    "legacySlugs": [],
+    "name": "Cintia Cakes Confeiteira - Confeitaria - Bolos e doces em Curitiba",
+    "type": "Confeitaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Confeitaria",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "R. Teófilo Soares Gomes, 815",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99907-9823",
+    "phoneUrl": "tel:+5541999079823",
+    "websiteUrl": "https://www.instagram.com/cintiacakescwb/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Cintia+Cakes+Confeiteira+-+Confeitaria+-+Bolos+e+doces+em+Curitiba,+R.+Te%C3%B3filo+Soares+Gomes,+815+-+Apto+12+-+Jardim+Social,+Curitiba+-+PR,+82530-090&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 5,
+      "reviewCount": 2,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 650,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 30
+      }
+    ]
+  },
+  {
+    "id": "est_6a7bd40e8f8642ba",
+    "slug": "clean-up-lavanderias",
+    "legacySlugs": [],
+    "name": "Clean Up Lavanderias",
+    "type": "Lavanderia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia",
+      "Limpeza",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 575",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99125-3175",
+    "phoneUrl": "tel:+5541991253175",
+    "websiteUrl": "https://meulink.com.vc/clean-up-lavanderias/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clean%20Up%20Lavanderias&query_place_id=ChIJTZwiA7Dl3JQR94W64DLjQmk",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 117,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJTZwiA7Dl3JQR94W64DLjQmk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 26
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 22
+      }
+    ]
+  },
+  {
+    "id": "est_5c29b746489e88f7",
+    "slug": "clinica-veterinaria-escola-unibrasil",
+    "legacySlugs": [],
+    "name": "Clínica Veterinária Escola UniBrasil",
+    "type": "Universidade",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Universidade"
+    ],
+    "address": {
+      "line": "Marginal Linha Verde, 6779",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3276-9093",
+    "phoneUrl": "tel:+554132769093",
+    "websiteUrl": "https://www.unibrasil.com.br/unibrasil-entrega-clinica-escola-de-medicina-veterinaria-a-comunidade/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cl%C3%ADnica%20Veterin%C3%A1ria%20Escola%20UniBrasil&query_place_id=ChIJe3dB3jHl3JQRQM1xse6Sh7U",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 22,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJe3dB3jHl3JQRQM1xse6Sh7U"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 8
+      }
+    ]
+  },
+  {
+    "id": "est_d91619958987c45b",
+    "slug": "condor-cristo-rei",
+    "legacySlugs": [],
+    "name": "Condor Cristo Rei",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados"
+    ],
+    "address": {
+      "line": "Rua Fioravante Dalla Stella, 66",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3888-2228",
+    "phoneUrl": "tel:+554138882228",
+    "websiteUrl": "https://www.condor.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/YU3fdujF7WAGSYt2A",
+    "rating": {
+      "value": 4.1,
+      "reviewCount": 7691,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1700,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 4
+      }
+    ]
+  },
+  {
+    "id": "est_4f3622025c868806",
+    "slug": "contos-do-ben",
+    "legacySlugs": [],
+    "name": "Contos do Ben",
+    "type": "Livraria infantil",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Livraria infantil"
+    ],
+    "address": {
+      "line": "R. Oyapock, 367",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99508-7879",
+    "phoneUrl": "tel:+5541995087879",
+    "websiteUrl": "http://www.contosdoben.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Contos%20do%20Ben&query_place_id=ChIJv2V7hDHl3JQRW5gkkIGdo_g",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 30,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJv2V7hDHl3JQRW5gkkIGdo_g"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 9
+      }
+    ]
+  },
+  {
+    "id": "est_57913947d3f55a7b",
+    "slug": "copacabana-sports",
+    "legacySlugs": [],
+    "name": "Copacabana Sports",
+    "type": "Quadra de esportes",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Quadra de esportes",
+      "Campo de futebol"
+    ],
+    "address": {
+      "line": "Rua Antônio Simm, 809",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98825-4162",
+    "phoneUrl": "tel:+5541988254162",
+    "websiteUrl": "https://instagram.com/copacabanasportscwb?utm_medium=copy_link",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Copacabana%20Sports&query_place_id=ChIJMfOmYJ3l3JQRVC6Z112H_sU",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 267,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJMfOmYJ3l3JQRVC6Z112H_sU"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 30
+      }
+    ]
+  },
+  {
+    "id": "est_07aa275600a9439b",
+    "slug": "correios-agf-nacoes",
+    "legacySlugs": [],
+    "name": "Correios - AGF Nações",
+    "type": "Correios",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Correios",
+      "Bancos, Correios e Lotéricas"
+    ],
+    "address": {
+      "line": "Rua Gilberto Mezzomo, 52",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-4136",
+    "phoneUrl": "tel:+554132624136",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Correios%20-%20AGF%20Na%C3%A7%C3%B5es&query_place_id=ChIJFRoyWqXl3JQR2hxV8u5Hsmk",
+    "rating": {
+      "value": 4.7,
+      "reviewCount": 38,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 500,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJFRoyWqXl3JQR2hxV8u5Hsmk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 14
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 14
+      }
+    ]
+  },
+  {
+    "id": "est_d9388edbf3656e64",
+    "slug": "costelao-fontana",
+    "legacySlugs": [],
+    "name": "Costelão Fontana Churrascaria Curitiba",
+    "type": "Churrascaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Churrascaria",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 645",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3053-2272",
+    "phoneUrl": "tel:+554130532272",
+    "websiteUrl": "https://www.facebook.com/CostelaoFontana",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Costel%C3%A3o+Fontana+Churrascaria+Curitiba,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+645+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-020%5D&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGwdcumycuccg1P-K_9NRzuTwLTpDka834QRkg4PJ9PBdQMYwBuLcJeEB89uKF9ue9rrl8oS-zGe-NPoQ0lWI5snhNhVJssdBTLU6vL0FoBcdO1qeFuMrz27KXnAQv6GcSOGMWWmnPQPXvykVIYdC9ftR25gfQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 1492,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 60,
+        "max": 80,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 26
+      }
+    ]
+  },
+  {
+    "id": "est_23240ef013fc0077",
+    "slug": "dalle-pizza-taruma",
+    "legacySlugs": [],
+    "name": "Dalle Pizza - Tarumã",
+    "type": "Pizzaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Pizzaria",
+      "Alimentação - restaurantes",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 142",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3995-2388",
+    "phoneUrl": "tel:+554139952388",
+    "websiteUrl": "http://www.dallepizza.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Dalle+Pizza+-+Tarum%C3%A3,+Av.+Victor+Ferreira+do+Amaral,+142+-+Tarum%C3%A3,+Curitiba+-+PR,+82810-350&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 831,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 400,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 25
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 46
+      }
+    ]
+  },
+  {
+    "id": "est_2fb24811ca5d98f9",
+    "slug": "dlx-preparatorio-militar",
+    "legacySlugs": [],
+    "name": "DLX Preparatório Militar",
+    "type": "Centro de preparação para testes",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Centro de preparação para testes"
+    ],
+    "address": {
+      "line": "Rua General Polli Coelho, 91",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99609-3870",
+    "phoneUrl": "tel:+5541996093870",
+    "websiteUrl": "http://www.cursodlx.com/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=DLX%20Preparat%C3%B3rio%20Militar&query_place_id=ChIJq9M9cEfk3JQRTAzMBSz2nDw",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 180,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJq9M9cEfk3JQRTAzMBSz2nDw"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 29
+      }
+    ]
+  },
+  {
+    "id": "est_b2497588f0364422",
+    "slug": "droga-raia",
+    "legacySlugs": [],
+    "name": "Droga Raia",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2427",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99288-4329",
+    "phoneUrl": "tel:+5541992884329",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Droga+Raia+-+Av.+N.+Sra.+da+Luz,+2427+-+Jardim+Social,+Curitiba+-+PR,+82530-010&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 3.5,
+      "reviewCount": 236,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 8
+      }
+    ]
+  },
+  {
+    "id": "est_69c6b71cc432cb36",
+    "slug": "educar-curso-preparatorio",
+    "legacySlugs": [],
+    "name": "Educar Curso Preparatório",
+    "type": "Escola preparatória",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Escola preparatória"
+    ],
+    "address": {
+      "line": "R. Cel. Irazê Paes Brasil, 101",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3266-5393",
+    "phoneUrl": "tel:+554132665393",
+    "websiteUrl": "http://educarcursopreparatorio.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Educar%20Curso%20Preparat%C3%B3rio&query_place_id=ChIJ3aaRxKHl3JQROcZ4wDPQq4Q",
+    "rating": {
+      "value": 5,
+      "reviewCount": 79,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJ3aaRxKHl3JQROcZ4wDPQq4Q"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 23
+      }
+    ]
+  },
+  {
+    "id": "est_6fb283bb5116f2e8",
+    "slug": "eixo-de-animacao-santa-catarina",
+    "legacySlugs": [],
+    "name": "Eixo de Animação Santa Catarina",
+    "type": "Parque",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "81020",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3313-5710",
+    "phoneUrl": "tel:+554133135710",
+    "websiteUrl": "http://www.curitiba.pr.gov.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/uo7thiuwB5FUwGwv6",
+    "rating": {
+      "value": 5,
+      "reviewCount": 10,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 850,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 36
+      }
+    ]
+  },
+  {
+    "id": "est_3ebe8851eb6d378e",
+    "slug": "escola-especializada-primavera",
+    "legacySlugs": [],
+    "name": "Escola Especializada Primavera",
+    "type": "Escola de educação especial",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Escola de educação especial",
+      "Escola"
+    ],
+    "address": {
+      "line": "R. Monte Castelo, 1040",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-7473",
+    "phoneUrl": "tel:+554132627473",
+    "websiteUrl": "https://escolaprimavera.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Escola%20Especializada%20Primavera&query_place_id=ChIJV7sv67rl3JQRVYFU00p03sw",
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJV7sv67rl3JQRVYFU00p03sw"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 40
+      }
+    ]
+  },
+  {
+    "id": "est_88b69c75e849060b",
+    "slug": "escola-estadual-nossa-senhora-de-fatima",
+    "legacySlugs": [],
+    "name": "Escola Estadual Nossa Senhora de Fátima",
+    "type": "Escola de educação geral",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Escola de educação geral"
+    ],
+    "address": {
+      "line": "208, R. Cel. Irazê Paes Brasil, 60",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Escola%20Estadual%20Nossa%20Senhora%20de%20F%C3%A1tima&query_place_id=ChIJGQ9Orqbl3JQRp6lTmFfnppQ",
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJGQ9Orqbl3JQRp6lTmFfnppQ"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 41
+      }
+    ]
+  },
+  {
+    "id": "est_c7f4244026c349bb",
+    "slug": "escola-infantil-joao-e-maria",
+    "legacySlugs": [],
+    "name": "Escola Infantil João e Maria - Tarumã",
+    "type": "Centro de educação pré-escolar",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Centro de educação pré-escolar",
+      "Cuidador(a) infantil",
+      "Escola mista",
+      "Creche"
+    ],
+    "address": {
+      "line": "R. Antônio Camilo, 148",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3078-0148",
+    "phoneUrl": "tel:+554130780148",
+    "websiteUrl": "http://centrojoaoemaria.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Escola%20Infantil%20Jo%C3%A3o%20e%20Maria%20-%20Tarum%C3%A3&query_place_id=ChIJmcDAs6Xl3JQR2p_En8wPCcA",
+    "rating": {
+      "value": 5,
+      "reviewCount": 10,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJmcDAs6Xl3JQR2p_En8wPCcA"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 5
+      }
+    ]
+  },
+  {
+    "id": "est_c3bd893180c4fe2d",
+    "slug": "especifico-curso-preparatorio",
+    "legacySlugs": [],
+    "name": "Específico Curso Preparatório",
+    "type": "Escola preparatória",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Escola preparatória"
+    ],
+    "address": {
+      "line": "Av. Affonso Penna, 974",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3085-3501",
+    "phoneUrl": "tel:+554130853501",
+    "websiteUrl": "http://www.cursoespecifico.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Espec%C3%ADfico%20Curso%20Preparat%C3%B3rio&query_place_id=ChIJB3NJajnl3JQRHwFagO01T5A",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 38,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJB3NJajnl3JQRHwFagO01T5A"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 15
+      }
+    ]
+  },
+  {
+    "id": "est_8e0736b85ba2a727",
+    "slug": "familia-farinha",
+    "legacySlugs": [],
+    "name": "Família Farinha",
+    "type": "Padaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Padaria",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2315",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99793-0012",
+    "phoneUrl": "tel:+5541997930012",
+    "websiteUrl": "http://www.familiafarinha.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Fam%C3%ADlia+Farinha,+Av.+N.+Sra.+da+Luz,+2315+-+Jardim+Social,+Curitiba+-+PR,+82530-010&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 7517,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 35
+      }
+    ]
+  },
+  {
+    "id": "est_635c3e689d36debe",
+    "slug": "farmacias-nissei",
+    "legacySlugs": [],
+    "name": "Farmácias Nissei",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 380",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 08 00643-6464",
+    "phoneUrl": "tel:+5508006436464",
+    "websiteUrl": "https://www.farmaciasnissei.com.br/?utm_source=google&utm_medium=gmb-perfil&utm_campaign=locasty_00465",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Farm%C3%A1cias+Nissei,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+380+-+Cristo+Rei,+Curitiba+-+PR,+82590-300&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz6cz9h3eVUp5ML7qH5WsxvTEZdjfNRayC9ET6-Zz4v6owHvd19J2IWGIVrvLfnCxE-kMYdT2C50pVaTbhUTgEQZ8eb4joGZiLFkAXmzMOEYp-DIz4C-U0YYtIje1Yb9mfdMjvzxqpxxSqcPcDFPeW1MvUSYY_m7xntgOP6692nqqHSdj_N4I1eLW-4v-KSjeOPxrZMg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4,
+      "reviewCount": 72,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 800,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 12
+      }
+    ]
+  },
+  {
+    "id": "est_54462c971b78220a",
+    "slug": "farmais-taruma",
+    "legacySlugs": [],
+    "name": "Farmais Tarumã",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 514",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99272-3585",
+    "phoneUrl": "tel:+5541992723585",
+    "websiteUrl": "http://www.farmais.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Farmais+Tarum%C3%A3,+Av.+Victor+Ferreira+do+Amaral,+514+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 5,
+      "reviewCount": 35,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 270,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 11
+      }
+    ]
+  },
+  {
+    "id": "est_869a98e4810cecd2",
+    "slug": "federal-online",
+    "legacySlugs": [],
+    "name": "Federal Online",
+    "type": "Centro de preparação para testes",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Centro de preparação para testes"
+    ],
+    "address": {
+      "line": "Rua General Polli Coelho, 91",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99721-5950",
+    "phoneUrl": "tel:+5541997215950",
+    "websiteUrl": "https://www.federalonline.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Federal%20Online&query_place_id=ChIJ__9DlaPl3JQRGMaqK0cg0gs",
+    "rating": {
+      "value": 5,
+      "reviewCount": 602,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJ__9DlaPl3JQRGMaqK0cg0gs"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 32
+      }
+    ]
+  },
+  {
+    "id": "est_4725e4a7a2fdd907",
+    "slug": "feira-noturna-de-produtos-organicos-terca-feira",
+    "legacySlugs": [],
+    "name": "Feira Noturna de Produtos Orgânicos | Terça - Feira",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados"
+    ],
+    "address": {
+      "line": "Av. Marechal Humberto de Alencar Castelo Branco, 631-699 - Jardim Social, Matriz, Curitiba - PR.",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/V2tGFN7SMRXjpVJdA",
+    "distanceMeters": 400,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 8
+      }
+    ]
+  },
+  {
+    "id": "est_7b2d9ab7eb69f053",
+    "slug": "festval-jardim-social",
+    "legacySlugs": [],
+    "name": "Festval Jardim Social",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados",
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "R. Arquimedes Cruz, 85",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3013-8686",
+    "phoneUrl": "tel:+554130138686",
+    "websiteUrl": "https://festval.com/",
+    "googleMapsUrl": "https://maps.app.goo.gl/1jVykPqmGLbbiYN48",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 2508,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 2000,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia",
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 7
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 33
+      }
+    ]
+  },
+  {
+    "id": "est_4b3084757a3ca8a5",
+    "slug": "fit-studio-cristo-rei",
+    "legacySlugs": [],
+    "name": "Fit Studio Cristo Rei",
+    "type": "Academia",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia"
+    ],
+    "address": {
+      "line": "Av. São José, 991",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99822-0991",
+    "phoneUrl": "tel:+5541998220991",
+    "websiteUrl": "https://www.instagram.com/fitstudio_cristorei/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fit%20Studio%20Cristo%20Rei&query_place_id=ChIJI7589w_l3JQRCURFjb991gk",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 150,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJI7589w_l3JQRCURFjb991gk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 28
+      }
+    ]
+  },
+  {
+    "id": "est_2aac85fdec148c08",
+    "slug": "folhetim-bar",
+    "legacySlugs": [],
+    "name": "Folhetim Bar",
+    "type": "Bar",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Bar",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 883",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99812-5008",
+    "phoneUrl": "tel:+5541998125008",
+    "googleMapsUrl": "https://www.google.com/maps/place/Folhetim+Bar/@-25.4279051,-49.2339651,17z/data=!3m1!4b1!4m6!3m5!1s0x94dce5286dbf3aa3:0x732c42bf145b6094!8m2!3d-25.4279051!4d-49.2313902!16s%2Fg%2F11gjtyrf0r?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D",
+    "rating": {
+      "value": 4.7,
+      "reviewCount": 1421,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 650,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 60,
+        "max": 140,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 48
+      }
+    ]
+  },
+  {
+    "id": "est_a697fb63f6ef5a22",
+    "slug": "habibs-taruma",
+    "legacySlugs": [],
+    "name": "Habib's",
+    "type": "Restaurante fast-food",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante fast-food",
+      "Alimentação - restaurantes",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 639",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 11 5696-6000",
+    "phoneUrl": "tel:+551156966000",
+    "websiteUrl": "http://www.habibs.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Habib%27s,+Av.+Victor+Ferreira+do+Amaral,+639+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.1,
+      "reviewCount": 7269,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 500,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 20,
+        "max": 60,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 24
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 38
+      }
+    ]
+  },
+  {
+    "id": "est_cd6408ebddd669a3",
+    "slug": "happy-burger-restaurante",
+    "legacySlugs": [],
+    "name": "Happy Burger & Restaurante",
+    "type": "Hamburgueria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Hamburgueria",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 251",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-9196",
+    "phoneUrl": "tel:+554132629196",
+    "websiteUrl": "https://www.instagram.com/happyburger.cwb/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Happy+Burger+%26+Restaurante,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+251+-+Cristo+Rei,+Curitiba+-+PR,+82530-020&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 4904,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 600,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 40,
+        "max": 60,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 23
+      }
+    ]
+  },
+  {
+    "id": "est_aa7ac664b4fb865b",
+    "slug": "hospital-das-nacoes",
+    "legacySlugs": [],
+    "name": "Hospital das Nações",
+    "type": "Hospital particular",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Hospital particular",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "Rua Raphael Papa, 10",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3306-9000",
+    "phoneUrl": "tel:+554133069000",
+    "websiteUrl": "http://www.hospitalnacoes.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Hospital+das+Na%C3%A7%C3%B5es,+Rua+Raphael+Papa,+10+-+Jardim+Social,+Curitiba+-+PR,+82530-190&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 2.6,
+      "reviewCount": 1299,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 650,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 2
+      }
+    ]
+  },
+  {
+    "id": "est_30a919c02c60038f",
+    "slug": "hospital-menino-deus",
+    "legacySlugs": [],
+    "name": "Hospital Menino Deus",
+    "type": "Hospital infantil",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Hospital infantil",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "Av. Visc. de Guarapuava, 355",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3302-2600",
+    "phoneUrl": "tel:+554133022600",
+    "websiteUrl": "https://hospitalmeninodeus.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Hospital+Menino+Deus,+Av.+Visc.+de+Guarapuava,+355+-+Alto+da+XV,+Curitiba+-+PR,+80045-375&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 2.7,
+      "reviewCount": 802,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 7
+      }
+    ]
+  },
+  {
+    "id": "est_fd28fa7991f26db3",
+    "slug": "hospital-sante-de-curitiba",
+    "legacySlugs": [],
+    "name": "Hospital Santé de Curitiba",
+    "type": "Hospital particular",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Hospital particular",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "R. XV de Novembro, 2913B",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3015-0101",
+    "phoneUrl": "tel:+554130150101",
+    "websiteUrl": "http://hospitalsante.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Hospital+Sant%C3%A9+de+Curitiba,+R.+XV+de+Novembro,+2913B+-+Alto+da+XV,+Curitiba+-+PR,+80045-340&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPpB9mktsIJCYexPH20nH39rkNick_NU5LNJOBtB66eJR-L77sKXqJzLP0-pu1OAgGpPvEb1WBhnaVSuU2Byn3wTGCzNz7laPJcWPsBvHMn_eIn9rsg5K95b4PFmpWaD095NW5AJbDR_K3rBlspZFcOHBCtSximmlYjgpE08fVgtMqFIsaQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 204,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 6
+      }
+    ]
+  },
+  {
+    "id": "est_88a435ebfe7fd2da",
+    "slug": "hotel-slim-curitiba-alto-da-xv",
+    "legacySlugs": [],
+    "name": "Hotel Slim Curitiba Alto da XV",
+    "type": "Hotel",
+    "primaryCategoryId": "hoteis",
+    "primaryCategoryLabel": "Hotéis",
+    "categoryIds": [
+      "hoteis"
+    ],
+    "categoryTags": [
+      "Hotel",
+      "Hotéis"
+    ],
+    "address": {
+      "line": "R. Conselheiro Araújo, 435",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3017-1050",
+    "phoneUrl": "tel:+554130171050",
+    "websiteUrl": "https://www.slavierohoteis.com.br/hoteis/slim-curitiba-alto-da-xv?utm_source=google&utm_medium=maps&utm_campaign=SLXV",
+    "googleMapsUrl": "https://maps.app.goo.gl/vSeTBtAFFYQvf3cg9",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 2470,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 3700,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 18
+      }
+    ]
+  },
+  {
+    "id": "est_790c4a193e5827ba",
+    "slug": "italo-cristo-rei",
+    "legacySlugs": [],
+    "name": "Ítalo Cristo Rei",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados"
+    ],
+    "address": {
+      "line": "Av. São José, 1240",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99209-9784",
+    "phoneUrl": "tel:+5541992099784",
+    "websiteUrl": "https://superitalo.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/FwM2aqoAhfmzbd65A",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 1067,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 950,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 3
+      }
+    ]
+  },
+  {
+    "id": "est_2288def36ddd5fec",
+    "slug": "jardim-botanico-municipal-de-curitiba",
+    "legacySlugs": [],
+    "name": "Jardim Botânico Municipal de Curitiba",
+    "type": "Parque ou praça",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque ou praça",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "R. Engo. Ostoja Roguski, 350",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/9WNUKXe38XHvpai49",
+    "distanceMeters": 2100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 32
+      }
+    ]
+  },
+  {
+    "id": "est_2c6c5ecf1c4cde2c",
+    "slug": "jet-oil",
+    "legacySlugs": [],
+    "name": "Jet Oil",
+    "type": "Posto de combustível",
+    "primaryCategoryId": "postos",
+    "primaryCategoryLabel": "Postos de gasolina",
+    "categoryIds": [
+      "postos"
+    ],
+    "categoryTags": [
+      "Posto de combustível",
+      "Postos de gasolina"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 760",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3362-8619",
+    "phoneUrl": "tel:+554133628619",
+    "websiteUrl": "https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/inicio",
+    "googleMapsUrl": "https://maps.app.goo.gl/qsQhBpDxnxCEi6Z2A",
+    "rating": {
+      "value": 4.2,
+      "reviewCount": 454,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 500,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 9
+      }
+    ]
+  },
+  {
+    "id": "est_93889d7be28426e1",
+    "slug": "jet-oil-5b80d1",
+    "legacySlugs": [],
+    "name": "Jet Oil",
+    "type": "Posto de combustível",
+    "primaryCategoryId": "postos",
+    "primaryCategoryLabel": "Postos de gasolina",
+    "categoryIds": [
+      "postos"
+    ],
+    "categoryTags": [
+      "Posto de combustível",
+      "Postos de gasolina"
+    ],
+    "address": {
+      "line": "R. XV de Novembro, 3040",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 08 00725-7333",
+    "phoneUrl": "tel:+5508007257333",
+    "websiteUrl": "https://www.ipiranga.com.br/wps/portal/pt-br/ipiranga/inicio",
+    "googleMapsUrl": "https://maps.app.goo.gl/TZiZ5NNvhL1xETas8",
+    "rating": {
+      "value": 4.3,
+      "reviewCount": 764,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1300,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 12
+      }
+    ]
+  },
+  {
+    "id": "est_4ed7e71ee1ab0251",
+    "slug": "jet-oil-jardim-social",
+    "legacySlugs": [],
+    "name": "Jet Oil - Jardim Social",
+    "type": "Serviço de troca de óleo",
+    "primaryCategoryId": "postos",
+    "primaryCategoryLabel": "Postos de gasolina",
+    "categoryIds": [
+      "postos"
+    ],
+    "categoryTags": [
+      "Serviço de troca de óleo",
+      "Postos de gasolina"
+    ],
+    "address": {
+      "line": "Av Mal Humberto A Castelo Branco, 1011",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3016-8500",
+    "phoneUrl": "tel:+554130168500",
+    "websiteUrl": "http://www.ipiranga.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/Stm5mViKY8zDShU78",
+    "rating": {
+      "value": 5,
+      "reviewCount": 5,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1300,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 11
+      }
+    ]
+  },
+  {
+    "id": "est_bbbb824bb0e023b4",
+    "slug": "jockey-plaza-shopping",
+    "legacySlugs": [],
+    "name": "Jockey Plaza Shopping",
+    "type": "Shopping center",
+    "primaryCategoryId": "shopping",
+    "primaryCategoryLabel": "Shopping centers",
+    "categoryIds": [
+      "shopping"
+    ],
+    "categoryTags": [
+      "Shopping center",
+      "Shopping centers"
+    ],
+    "address": {
+      "line": "R. Konrad Adenauer, 370",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/nzP1DnrQftqPemkNA",
+    "distanceMeters": 3900,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 19
+      }
+    ]
+  },
+  {
+    "id": "est_4976a9251aab5b41",
+    "slug": "laundromat-lavanderia-self-service",
+    "legacySlugs": [],
+    "name": "Laundromat Lavanderia Self-Service",
+    "type": "Lavanderia automática",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia automática",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 230",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 21 99267-4064",
+    "phoneUrl": "tel:+5521992674064",
+    "websiteUrl": "https://www.instagram.com/laundromatcuritiba/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laundromat%20Lavanderia%20Self-Service&query_place_id=ChIJo-9K3Cbl3JQRXREyIKl8vts",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 14,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia"
+    ],
+    "location": {
+      "placeId": "ChIJo-9K3Cbl3JQRXREyIKl8vts"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 6
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 26
+      }
+    ]
+  },
+  {
+    "id": "est_8b6964a04b553ad0",
+    "slug": "lavanderia-lavo-cristo-rei",
+    "legacySlugs": [],
+    "name": "Lavanderia Lavô Cristo Rei",
+    "type": "Lavanderia automática",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia automática",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "R. Urbâno Lopes, 15",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99668-2719",
+    "phoneUrl": "tel:+5541996682719",
+    "websiteUrl": "https://lavobrasil.com.br/cristoreicuritiba",
+    "googleMapsUrl": "https://maps.app.goo.gl/8eSmmJsabwd9o9sJ7",
+    "rating": {
+      "value": 4.1,
+      "reviewCount": 48,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 2200,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 23
+      }
+    ]
+  },
+  {
+    "id": "est_328376ac4fd09087",
+    "slug": "leve-sabor",
+    "legacySlugs": [],
+    "name": "Leve Sabor",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 315",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3023-6456",
+    "phoneUrl": "tel:+554130236456",
+    "websiteUrl": "http://www.levesaborcuritiba.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Leve+Sabor,+Av.+Victor+Ferreira+do+Amaral,+315+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.3,
+      "reviewCount": 13800,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 650,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 29
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 36
+      }
+    ]
+  },
+  {
+    "id": "est_49fd16ff7422d1fe",
+    "slug": "limoeiro-casa-de-comidas",
+    "legacySlugs": [],
+    "name": "Limoeiro - Casa de Comidas",
+    "type": "Restaurante italiano",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante italiano",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 669",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3093-5392",
+    "phoneUrl": "tel:+554130935392",
+    "websiteUrl": "https://www.olimoeiro.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Limoeiro+-+Casa+de+Comidas,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+669+-+Jardim+Social,+Curitiba+-+PR,+82530-020&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz3p-O3IbOMn-3Vf9JCibNb0s79epiILZkMBFcXUQTDvHHrt48ZU8Eg2rPuKSQMFbFta4t-XscpOZcFxKo2zxSg0E_4_LdICw3ydcMJyujQp2JcvvNL91KkCSUjX2FTJLFBRJv-ePaMk1mggj3mzYehTZbjq8RU7H2D6u3o8lcbC5TVwYMGFkQqFODNE1kKXW_bybkTg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 1778,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 60,
+        "max": 140,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 15
+      }
+    ]
+  },
+  {
+    "id": "est_48d424e0b3d8d634",
+    "slug": "los-loccos-curitiba",
+    "legacySlugs": [],
+    "name": "Los Loccos Curitiba",
+    "type": "Hamburgueria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Hamburgueria",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 293",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99693-1407",
+    "phoneUrl": "tel:+5541996931407",
+    "websiteUrl": "https://losloccos.com.br/los_loccos",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Los+Loccos+Curitiba,+Av.+Victor+Ferreira+do+Amaral,+293+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 46,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 250,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 80,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 42
+      }
+    ]
+  },
+  {
+    "id": "est_68a58c6da1244c82",
+    "slug": "loterias-trevo-do-taruma",
+    "legacySlugs": [],
+    "name": "Loterias Trevo do Tarumã",
+    "type": "Casa lotérica",
+    "primaryCategoryId": "bancos_correios_lotericas",
+    "primaryCategoryLabel": "Bancos, Correios e lotéricas",
+    "categoryIds": [
+      "bancos_correios_lotericas"
+    ],
+    "categoryTags": [
+      "Casa lotérica"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1088 - Loja 02",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3264-8665",
+    "phoneUrl": "tel:+554132648665",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loterias%20Trevo%20do%20Tarum%C3%A3&query_place_id=ChIJvQGNjKTl3JQR5E4HT5OTpTA",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 47,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJvQGNjKTl3JQR5E4HT5OTpTA"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 18
+      }
+    ]
+  },
+  {
+    "id": "est_41b49fff136780dd",
+    "slug": "luigi-hair-unissex",
+    "legacySlugs": [],
+    "name": "Luigi Hair Unissex",
+    "type": "Salão de Beleza",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Salão de Beleza"
+    ],
+    "address": {
+      "line": "R. Raul Joaquim Quadros Gomes, 145",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99963-1059",
+    "phoneUrl": "tel:+5541999631059",
+    "websiteUrl": "https://link.corthy.com/5541999631059",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Luigi%20Hair%20Unissex&query_place_id=ChIJd1i4TMTl3JQRn3CbtnncLJc",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 52,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJd1i4TMTl3JQRn3CbtnncLJc"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 19
+      }
+    ]
+  },
+  {
+    "id": "est_325f7bbabacee888",
+    "slug": "madero-jardim-social",
+    "legacySlugs": [],
+    "name": "Madero Steak House Jardim Social",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2521",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3012-2545",
+    "phoneUrl": "tel:+554130122545",
+    "websiteUrl": "http://www.restaurantemadero.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Madero+Steak+House+Jardim+Social,+Av.+N.+Sra.+da+Luz,+2521+-+Jardim+Social,+Curitiba+-+PR,+82530-010&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 4311,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 60,
+        "max": 100,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 18
+      }
+    ]
+  },
+  {
+    "id": "est_148650b84bef9dbe",
+    "slug": "mamae-urso-cafe",
+    "legacySlugs": [],
+    "name": "Mamãe Urso Café",
+    "type": "Espresso bar",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Espresso bar",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "R. Pres. Epitácio Pessoa, 558",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3524-1700",
+    "phoneUrl": "tel:+554135241700",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Mam%C3%A3e+Urso+Caf%C3%A9,+R.+Pres.+Epit%C3%A1cio+Pessoa,+558+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-270&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 617,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 800,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 34
+      }
+    ]
+  },
+  {
+    "id": "est_9eed03b356ec376a",
+    "slug": "maxifarma-taruma",
+    "legacySlugs": [],
+    "name": "MAXIFARMA TARUMÃ",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Super Muffato - Av. Victor Ferreira do Amaral, 1088",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3024-6848",
+    "phoneUrl": "tel:+554130246848",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=MAXIFARMA+TARUM%C3%83,+Super+Muffato+-+Av.+Victor+Ferreira+do+Amaral,+1088+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 8,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 800,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 13
+      }
+    ]
+  },
+  {
+    "id": "est_113d2c1eb4b3f4c4",
+    "slug": "mcdonalds-cristo-rei",
+    "legacySlugs": [],
+    "name": "McDonald's - Cristo Rei",
+    "type": "Restaurante fast-food",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante fast-food",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto A. Castelo Branco, 1081",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 08 00888-1955",
+    "phoneUrl": "tel:+5508008881955",
+    "websiteUrl": "https://www.mcdonalds.com.br/?utm_source=[gmb]&utm_medium=[website][JSO]&utm_campaign=[youmap][digital]",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=McDonald%27s+-+Cristo+Rei,+Av.+Mal.+Humberto+A.+Castelo+Branco,+1081+-+Cristo+Rei,+Curitiba+-+PR,+82530-020&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 3.8,
+      "reviewCount": 6416,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1200,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 39
+      }
+    ]
+  },
+  {
+    "id": "est_4fb5c75ab1d59a20",
+    "slug": "museu-planeta-agua",
+    "legacySlugs": [],
+    "name": "Museu Planeta Água",
+    "type": "Museu",
+    "primaryCategoryId": "cultura",
+    "primaryCategoryLabel": "Cultura",
+    "categoryIds": [
+      "cultura"
+    ],
+    "categoryTags": [
+      "Museu",
+      "Cultura"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1760",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "websiteUrl": "https://www.museuplanetaagua.org.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/1qPRfzM6hCZPmJmR8",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 1179,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1600,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 37
+      }
+    ]
+  },
+  {
+    "id": "est_dbe0716f75d992a1",
+    "slug": "nixon-s-barbearia",
+    "legacySlugs": [],
+    "name": "Nixon's barbearia",
+    "type": "Barbearia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Barbearia"
+    ],
+    "address": {
+      "line": "82530090",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3045-4734",
+    "phoneUrl": "tel:+554130454734",
+    "websiteUrl": "https://www.instagram.com/barbearianixons?igsh=emYzeTk1cGJ0YTg0",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nixon's%20barbearia&query_place_id=ChIJG8Gbq7rl3JQRRI6BkXp1TRk",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 370,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJG8Gbq7rl3JQRRI6BkXp1TRk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 31
+      }
+    ]
+  },
+  {
+    "id": "est_0866fa6a9439f9e0",
+    "slug": "notrelabs-cmd",
+    "legacySlugs": [],
+    "name": "NotreLabs CMD",
+    "type": "Centro médico",
+    "primaryCategoryId": "saude",
+    "primaryCategoryLabel": "Saúde",
+    "categoryIds": [
+      "saude"
+    ],
+    "categoryTags": [
+      "Centro médico",
+      "Saúde - hospitais"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2169",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 4090-2790",
+    "phoneUrl": "tel:+554140902790",
+    "websiteUrl": "https://www.gndi.com.br/unidades/notrelabs-cmd/?utm_source=google&utm_medium=maps&utm_campaign=icherryCP033",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=NotreLabs+CMD,+Av.+N.+Sra.+da+Luz,+2169+-+Jardim+Social,+Curitiba+-+PR,+82590-300&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.2,
+      "reviewCount": 535,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 950,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 3
+      }
+    ]
+  },
+  {
+    "id": "est_73c6c3409178343a",
+    "slug": "nou-exclusive-gym",
+    "legacySlugs": [],
+    "name": "NOU Exclusive Gym",
+    "type": "Academia",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia"
+    ],
+    "address": {
+      "line": "R. Arquimedes Cruz, 112",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98869-4019",
+    "phoneUrl": "tel:+5541988694019",
+    "websiteUrl": "https://instagram.com/nouexclusivegym",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NOU%20Exclusive%20Gym&query_place_id=ChIJbSTnB7bl3JQR1lYsL-bieqk",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 39,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJbSTnB7bl3JQR1lYsL-bieqk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 16
+      }
+    ]
+  },
+  {
+    "id": "est_1e5db29572b66488",
+    "slug": "paiol-do-joao",
+    "legacySlugs": [],
+    "name": "Paiol do João Carnes e Assados",
+    "type": "Churrascaria",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Churrascaria",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Rua Gottlieb Rosenau, 158",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3082-9009",
+    "phoneUrl": "tel:+554130829009",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Paiol+do+Jo%C3%A3o+Carnes+e+Assados,+Rua+Gottlieb+Rosenau,+158+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-330&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.7,
+      "reviewCount": 355,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 700,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 60,
+        "max": 160,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 19
+      }
+    ]
+  },
+  {
+    "id": "est_578067cea1074fe2",
+    "slug": "panvel-farmacias",
+    "legacySlugs": [],
+    "name": "Panvel Farmácias",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2341",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 08 00642-9001",
+    "phoneUrl": "tel:+5508006429001",
+    "websiteUrl": "https://www.panvel.com/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Panvel+Farm%C3%A1cias,+Av.+N.+Sra.+da+Luz,+2341+-+Jardim+Social,+Curitiba+-+PR,+82530-010&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz6cz9h3eVUp5ML7qH5WsxvTEZdjfNRayC9ET6-Zz4v6owHvd19J2IWGIVrvLfnCxE-kMYdT2C50pVaTbhUTgEQZ8eb4joGZiLFkAXmzMOEYp-DIz4C-U0YYtIje1Yb9mfdMjvzxqpxxSqcPcDFPeW1MvUSYY_m7xntgOP6692nqqHSdj_N4I1eLW-4v-KSjeOPxrZMg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.3,
+      "reviewCount": 85,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 9
+      }
+    ]
+  },
+  {
+    "id": "est_50d2647da0fd662d",
+    "slug": "panvel-farmacias-e61936",
+    "legacySlugs": [],
+    "name": "Panvel Farmácias",
+    "type": "Farmácia",
+    "primaryCategoryId": "farmacias",
+    "primaryCategoryLabel": "Farmácias",
+    "categoryIds": [
+      "farmacias"
+    ],
+    "categoryTags": [
+      "Farmácia",
+      "Saúde - farmácias"
+    ],
+    "address": {
+      "line": "Av. Sen. Souza Naves, 1772",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Panvel+Farm%C3%A1cias,+Av.+Sen.+Souza+Naves,+1772+-+Cristo+Rei,+Curitiba+-+PR,+80050-152&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz6cz9h3eVUp5ML7qH5WsxvTEZdjfNRayC9ET6-Zz4v6owHvd19J2IWGIVrvLfnCxE-kMYdT2C50pVaTbhUTgEQZ8eb4joGZiLFkAXmzMOEYp-DIz4C-U0YYtIje1Yb9mfdMjvzxqpxxSqcPcDFPeW1MvUSYY_m7xntgOP6692nqqHSdj_N4I1eLW-4v-KSjeOPxrZMg&entry=mc&ved=1t:200715&ictx=111",
+    "distanceMeters": 900,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 10
+      }
+    ]
+  },
+  {
+    "id": "est_577c7b4629fd0006",
+    "slug": "pet-millan-pet-shop",
+    "legacySlugs": [],
+    "name": "Pet Millan Pet Shop",
+    "type": "Lavanderia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 743",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/o54rJMsSejFTSdGV6",
+    "distanceMeters": 500,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 29
+      }
+    ]
+  },
+  {
+    "id": "est_3b2039960430385a",
+    "slug": "pet-shop-rei-dos-animais-al-to-da-xv",
+    "legacySlugs": [],
+    "name": "Pet Shop Rei dos Animais - Al-to da XV",
+    "type": "Lavanderia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Lavanderia",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "R. XV de Novembro, 3188",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/iBgzoZRMwaPKHT7p8",
+    "distanceMeters": 1100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 28
+      }
+    ]
+  },
+  {
+    "id": "est_136eb03ff756932a",
+    "slug": "petshop-lady-luna",
+    "legacySlugs": [],
+    "name": "Petshop Lady Luna",
+    "type": "Pet Shop",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Pet Shop",
+      "Lavanderias e pet shops"
+    ],
+    "address": {
+      "line": "Av. São José, 1213",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98713-8559",
+    "phoneUrl": "tel:+5541987138559",
+    "websiteUrl": "https://www.instagram.com/ladylunapet/",
+    "googleMapsUrl": "https://maps.app.goo.gl/fwz9ZJvb8QtijW2p9",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 24,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1300,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 27
+      }
+    ]
+  },
+  {
+    "id": "est_dd883a5a6cd63e17",
+    "slug": "polloshop",
+    "legacySlugs": [],
+    "name": "Polloshop",
+    "type": "Shopping center",
+    "primaryCategoryId": "shopping",
+    "primaryCategoryLabel": "Shopping centers",
+    "categoryIds": [
+      "shopping"
+    ],
+    "categoryTags": [
+      "Shopping center",
+      "Shopping centers"
+    ],
+    "address": {
+      "line": "R. Camões, 601",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/8WYpt3UYvicuJVjN6",
+    "distanceMeters": 1800,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 20
+      }
+    ]
+  },
+  {
+    "id": "est_878d4a8456fcfe29",
+    "slug": "posto-das-nacoes-petrobras",
+    "legacySlugs": [],
+    "name": "Posto das Nações | Petrobras",
+    "type": "Posto de combustível",
+    "primaryCategoryId": "postos",
+    "primaryCategoryLabel": "Postos de gasolina",
+    "categoryIds": [
+      "postos"
+    ],
+    "categoryTags": [
+      "Posto de combustível",
+      "Postos de gasolina"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 142",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3078-7374",
+    "phoneUrl": "tel:+554130787374",
+    "websiteUrl": "https://www.postospetrobras.com.br/?utm_source=gmb&utm_medium=search",
+    "googleMapsUrl": "https://maps.app.goo.gl/zSuBnQMApM2iYh3K7",
+    "rating": {
+      "value": 4.2,
+      "reviewCount": 261,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 800,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 10
+      }
+    ]
+  },
+  {
+    "id": "est_25463770a65857bb",
+    "slug": "praca-da-polonia",
+    "legacySlugs": [],
+    "name": "Praça da Polônia",
+    "type": "Parque ou praça",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque ou praça",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "Cristo Rei",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/jaRRjoX37qVaAphv8",
+    "distanceMeters": 2100,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 34
+      }
+    ]
+  },
+  {
+    "id": "est_ea4da8d8c2522134",
+    "slug": "praca-das-nacoes",
+    "legacySlugs": [],
+    "name": "Praça das Nações",
+    "type": "Parque ou praça",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque ou praça",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "Cristo Rei",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/zWkiPo1obcuqfxYw5",
+    "distanceMeters": 950,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 33
+      }
+    ]
+  },
+  {
+    "id": "est_f092794ff026d30e",
+    "slug": "praca-sao-francisco-de-assis",
+    "legacySlugs": [],
+    "name": "Praça São Francisco de Assis",
+    "type": "Jardim",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Jardim",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/nZGuzRGE5FK8movH9",
+    "rating": {
+      "value": 4,
+      "reviewCount": 2,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 1600,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 30
+      }
+    ]
+  },
+  {
+    "id": "est_29c1dfa057a82642",
+    "slug": "praca-vila-lobos-jardim-social",
+    "legacySlugs": [],
+    "name": "Praça Vila Lobos - Jardim Social",
+    "type": "Parque ou praça",
+    "primaryCategoryId": "parques",
+    "primaryCategoryLabel": "Praças e parques",
+    "categoryIds": [
+      "parques"
+    ],
+    "categoryTags": [
+      "Parque ou praça",
+      "Praças e parques"
+    ],
+    "address": {
+      "line": "Jardim Social",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/QxQDXFxh9rCSQTQHA",
+    "distanceMeters": 2300,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 31
+      }
+    ]
+  },
+  {
+    "id": "est_987358968226c967",
+    "slug": "produgraff-servicos-graficos",
+    "legacySlugs": [],
+    "name": "PRODUGRAFF - Serviços Gráficos",
+    "type": "Gráfica",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Gráfica"
+    ],
+    "address": {
+      "line": "R. Cel. Pedro Scherer Sobrinho, 259",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3363-4890",
+    "phoneUrl": "tel:+554133634890",
+    "websiteUrl": "http://www.produgraff.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=PRODUGRAFF%20-%20Servi%C3%A7os%20Gr%C3%A1ficos&query_place_id=ChIJPaMdlavl3JQRWP-_hyHTZHg",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 85,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJPaMdlavl3JQRWP-_hyHTZHg"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 24
+      }
+    ]
+  },
+  {
+    "id": "est_84898864defa5f7e",
+    "slug": "qalendula-escola-atelie-de-ceramica-artesanal",
+    "legacySlugs": [],
+    "name": "Qalendula • Escola & Ateliê de Cerâmica Artesanal",
+    "type": "Ateliê de arte",
+    "primaryCategoryId": "cultura",
+    "primaryCategoryLabel": "Cultura",
+    "categoryIds": [
+      "cultura"
+    ],
+    "categoryTags": [
+      "Ateliê de arte",
+      "Artesanato",
+      "Feira de artesanato",
+      "Escola de artesanato",
+      "Aulas de cerâmica",
+      "Fabricante de cerâmica"
+    ],
+    "address": {
+      "line": "R. Frei Orlando, 275",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99263-0555",
+    "phoneUrl": "tel:+5541992630555",
+    "websiteUrl": "https://loja.qalendula.com/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Qalendula%20%E2%80%A2%20Escola%20%26%20Ateli%C3%AA%20de%20Cer%C3%A2mica%20Artesanal&query_place_id=ChIJjw8DCdDl3JQR-20FeGcx710",
+    "rating": {
+      "value": 5,
+      "reviewCount": 54,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJjw8DCdDl3JQR-20FeGcx710"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 21
+      }
+    ]
+  },
+  {
+    "id": "est_880417472d5c01db",
+    "slug": "restaurante-peixinho-pizzaria",
+    "legacySlugs": [],
+    "name": "Restaurante Peixinho & Pizzaria",
+    "type": "Restaurante de frutos do mar",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante de frutos do mar",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "R. Frei Orlando, 690",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3264-4278",
+    "phoneUrl": "tel:+554132644278",
+    "websiteUrl": "https://peixepizzariarestaurante.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Restaurante+Peixinho+%26+Pizzaria,+R.+Frei+Orlando,+690+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-040%5D&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 1817,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 240,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 40,
+        "max": 100,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 20
+      }
+    ]
+  },
+  {
+    "id": "est_ca07a5998a392ac8",
+    "slug": "restaurante-peruano",
+    "legacySlugs": [],
+    "name": "Restaurante Peruano Gastronomia e Cultura",
+    "type": "Restaurante peruano",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante peruano",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 675",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3045-6711",
+    "phoneUrl": "tel:+554130456711",
+    "websiteUrl": "https://instagram.com/peruanogastronomia/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Restaurante+Peruano+Gastronomia+e+Cultura,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+675+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-205&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGy-XknlkAwy6N1xD-6dXKPkycNZuy7e353vF_gGslvOQ-ovpWq6L14IkuOJEpo_MATaE8xcUwCvsYxAbWFxHQeitHDBmu-uwibM6KhtiI-j0UnLf-yyF7k2WBOykNqJzoIcYLavWNi6ShAe8OMRwP0MtyYT2w&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.6,
+      "reviewCount": 1169,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 60,
+        "max": 120,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 16
+      }
+    ]
+  },
+  {
+    "id": "est_6413d2dfed76a61e",
+    "slug": "restaurante-quinoa-225",
+    "legacySlugs": [],
+    "name": "Restaurante Quinoa 225",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 225",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-9196",
+    "phoneUrl": "tel:+554132629196",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Restaurante+Quinoa+225,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+225+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-195&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 189,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 650,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 20,
+        "max": 100,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 22
+      }
+    ]
+  },
+  {
+    "id": "est_8892205a59025cab",
+    "slug": "restaurante-slow-fire",
+    "legacySlugs": [],
+    "name": "Restaurante Slow Fire",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "R. Dr. João Evangelista Espíndola, 1587",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3016-1026",
+    "phoneUrl": "tel:+554130161026",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Restaurante+Slow+Fire,+R.+Dr.+Jo%C3%A3o+Evangelista+Esp%C3%ADndola,+1587+-+Jardim+Social,+Curitiba+-+PR,+82530-060&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32Ksz59hR2pH4eBsgfs9coorm5iG5N6hEYVblLG75OjFecGwdcumycuccg1P-K_9NRzuTwLTpDka834QRkg4PJ9PBdQMYwBuLcJeEB89uKF9ue9rrl8oS-zGe-NPoQ0lWI5snhNhVJssdBTLU6vL0FoBcdO1qeFuMrz27KXnAQv6GcSOGMWWmnPQPXvykVIYdC9ftR25gfQ&entry=mc&ved=1t:200715&ictx=111",
+    "distanceMeters": 650,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 14
+      }
+    ]
+  },
+  {
+    "id": "est_33ed7221fb9c2fa4",
+    "slug": "restaurante-yifan",
+    "legacySlugs": [],
+    "name": "RESTAURANTE YIFAN",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - restaurantes"
+    ],
+    "address": {
+      "line": "Av. Mal. Humberto de Alencar Castelo Branco, 230",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98754-0021",
+    "phoneUrl": "tel:+5541987540021",
+    "websiteUrl": "https://youtube.com/@user-gq4oq6nh7j?si=Bie38Ueo9AOfQ1UU",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=RESTAURANTE+YIFAN+Paran%C3%A1,+Curitiba,+Cristo+Rei,+Av.+Mal.+Humberto+de+Alencar+Castelo+Branco,+%E9%82%AE%E6%94%BF%E7%BC%96%E7%A0%81:+82530-195&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 16,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 850,
+    "food": {
+      "group": "Alimentação - restaurantes",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 21
+      }
+    ]
+  },
+  {
+    "id": "est_4d0304684b1d7840",
+    "slug": "rio-verde",
+    "legacySlugs": [
+      "rio-verde-supermercado"
+    ],
+    "name": "Rio Verde",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados",
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 816",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3012-4610",
+    "phoneUrl": "tel:+554130124610",
+    "websiteUrl": "http://rederioverde.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rio%20Verde&query_place_id=ChIJncB-P6Xl3JQRNCwOP_hsQZ0",
+    "rating": {
+      "value": 4.3,
+      "reviewCount": 5701,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 700,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia",
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {
+      "placeId": "ChIJncB-P6Xl3JQRNCwOP_hsQZ0"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 37
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 6
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 31
+      }
+    ]
+  },
+  {
+    "id": "est_72a5ce0bc29b587d",
+    "slug": "rodizio-de-pizza",
+    "legacySlugs": [],
+    "name": "Rodízio de Pizza",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 206",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Rod%C3%ADzio+de+Pizza,+Av.+Victor+Ferreira+do+Amaral,+206+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtG0rZjIsrGdgdBUn05XehX-6OIM7shD4tboaxSOKLB4JE1MywLMIylRHPAgvCbAV7gn-Q2r2C1Xbvu6vyg_Hq2RUAMInE65eTPhNkamOUUXVcgQh7JA32z0Q6C6d8ikZnTdpotTcEGIXcXyg_bok3Yn5EkeIQ&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 5,
+      "reviewCount": 3,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 270,
+    "food": {
+      "group": "Alimentação - fast food e outros"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 45
+      }
+    ]
+  },
+  {
+    "id": "est_aae495d2d7fbd621",
+    "slug": "rodrigo-reis-barbearia",
+    "legacySlugs": [],
+    "name": "Rodrigo Reis Barbearia",
+    "type": "Barbearia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Barbearia"
+    ],
+    "address": {
+      "line": "Rua General Polli Coelho, 192",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99670-2470",
+    "phoneUrl": "tel:+5541996702470",
+    "websiteUrl": "https://sites.appbarber.com.br/rodrigoreisbarb-kon7",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodrigo%20Reis%20Barbearia&query_place_id=ChIJhzJRLIbl3JQR9Uogb-TSYBQ",
+    "rating": {
+      "value": 5,
+      "reviewCount": 112,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJhzJRLIbl3JQR9Uogb-TSYBQ"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 25
+      }
+    ]
+  },
+  {
+    "id": "est_fd20432b96f43a02",
+    "slug": "saint-georges-panificadora",
+    "legacySlugs": [],
+    "name": "Saint Georges Panificadora Artesanal",
+    "type": "Jardim",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Jardim",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 518",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3262-1122",
+    "phoneUrl": "tel:+554132621122",
+    "websiteUrl": "https://panificadorasaintgeorges.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Saint+Georges+Panificadora+Artesanal,+Av.+Victor+Ferreira+do+Amaral,+518+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KsznqZrPcvTC0mTZyYkgWBH7d49QZq5WICB3GTVS_DIYtF24ptcaBAU7NLiXp1A9tM_kmTpJ_QWwLy9xl8OBCfRAstTGycccI0RdWRoQ9dfmY9NMw13msy9FCBR8nm-_Vqd7OZ4mPjRVgS9qjDUA9R3GFWpEguJyA3Heu2EtLjPQ2xyQ3kAgR4TL5U7LJTFpqj30FfFYA&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 5,
+      "reviewCount": 1,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 280,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 27
+      }
+    ]
+  },
+  {
+    "id": "est_848268984f2bb360",
+    "slug": "sanitas-fitness-academia",
+    "legacySlugs": [],
+    "name": "Sanita's Fitness Academia",
+    "type": "Academia",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia"
+    ],
+    "address": {
+      "line": "R. Oyapock, 244",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98735-6029",
+    "phoneUrl": "tel:+5541987356029",
+    "websiteUrl": "https://www.instagram.com/academiasanitasfitness",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sanita's%20Fitness%20Academia&query_place_id=ChIJ8wJsnrTl3JQRRfDzJLuwxq0",
+    "rating": {
+      "value": 4.8,
+      "reviewCount": 73,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJ8wJsnrTl3JQRRfDzJLuwxq0"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 22
+      }
+    ]
+  },
+  {
+    "id": "est_27620c3900e7f37c",
+    "slug": "segredos-do-teclado-aulas-de-teclado-e-piano",
+    "legacySlugs": [],
+    "name": "Segredos do Teclado - Aulas de Teclado e Piano",
+    "type": "Professor de piano",
+    "primaryCategoryId": "educacao",
+    "primaryCategoryLabel": "Educação",
+    "categoryIds": [
+      "educacao"
+    ],
+    "categoryTags": [
+      "Professor de piano",
+      "Professor de música",
+      "Escola de Música"
+    ],
+    "address": {
+      "line": "R. Teófilo Soares Gomes, 892",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 98780-6633",
+    "phoneUrl": "tel:+5541987806633",
+    "websiteUrl": "https://segredosdoteclado.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Segredos%20do%20Teclado%20-%20Aulas%20de%20Teclado%20e%20Piano&query_place_id=ChIJqWt3A72d4qgRPGHm_z-dc7A",
+    "rating": {
+      "value": 5,
+      "reviewCount": 6,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJqWt3A72d4qgRPGHm_z-dc7A"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 4
+      }
+    ]
+  },
+  {
+    "id": "est_225f1619cf8448a6",
+    "slug": "shopping-cristo-rei",
+    "legacySlugs": [],
+    "name": "Shopping Cristo Rei",
+    "type": "Shopping center",
+    "primaryCategoryId": "shopping",
+    "primaryCategoryLabel": "Shopping centers",
+    "categoryIds": [
+      "shopping"
+    ],
+    "categoryTags": [
+      "Shopping center",
+      "Shopping centers"
+    ],
+    "address": {
+      "line": "R. Padre Germano Mayer, 679",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "websiteUrl": "http://www.shoppingcristorei.com.br/",
+    "googleMapsUrl": "https://maps.app.goo.gl/JFdmjG8e9Ea5FHA6A",
+    "rating": {
+      "value": 4.3,
+      "reviewCount": 764,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 2000,
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Maia"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 21
+      }
+    ]
+  },
+  {
+    "id": "est_bedc12326cd0827b",
+    "slug": "silver-blade-barbearia-e-fliperama",
+    "legacySlugs": [],
+    "name": "Silver Blade Barbearia e Fliperama",
+    "type": "Barbearia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Barbearia",
+      "Fliperama"
+    ],
+    "address": {
+      "line": "R. Cel. Irazê Paes Brasil, 194",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99985-2374",
+    "phoneUrl": "tel:+5541999852374",
+    "websiteUrl": "https://www.instagram.com/silverblade_barbeariafliperama",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Silver%20Blade%20Barbearia%20e%20Fliperama&query_place_id=ChIJy9zPcQDl3JQRT8mC4xDYWaQ",
+    "rating": {
+      "value": 5,
+      "reviewCount": 30,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJy9zPcQDl3JQRT8mC4xDYWaQ"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 10
+      }
+    ]
+  },
+  {
+    "id": "est_8508276c79f5495f",
+    "slug": "studio-andrade-fatobene",
+    "legacySlugs": [],
+    "name": "Studio Andrade Fatobene",
+    "type": "Salão de Beleza",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Salão de Beleza"
+    ],
+    "address": {
+      "line": "Rua Jorge Pedro Chueri, 156",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3079-8004",
+    "phoneUrl": "tel:+554130798004",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20Andrade%20Fatobene&query_place_id=ChIJx56RySzl3JQRGkizYbbQoK4",
+    "rating": {
+      "value": 5,
+      "reviewCount": 37,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJx56RySzl3JQRGkizYbbQoK4"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 12
+      }
+    ]
+  },
+  {
+    "id": "est_57f9ec2a36235d6f",
+    "slug": "studio-da-barba",
+    "legacySlugs": [],
+    "name": "Studio da Barba",
+    "type": "Barbearia",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Barbearia",
+      "Cabeleireiro"
+    ],
+    "address": {
+      "line": "Av. N. Sra. da Luz, 2450 - Loja 06",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99948-2125",
+    "phoneUrl": "tel:+5541999482125",
+    "websiteUrl": "http://www.studiodabarba.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20da%20Barba&query_place_id=ChIJM9ipDOjl3JQRh_C2vkQlRRA",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 1076,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJM9ipDOjl3JQRh_C2vkQlRRA"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 35
+      }
+    ]
+  },
+  {
+    "id": "est_5bf366cc5e16bb4d",
+    "slug": "studio-onix-personal-esthetic",
+    "legacySlugs": [],
+    "name": "Studio Ônix - Personal & Esthetic",
+    "type": "Academia",
+    "primaryCategoryId": "academias_esportes",
+    "primaryCategoryLabel": "Academias e esportes",
+    "categoryIds": [
+      "academias_esportes"
+    ],
+    "categoryTags": [
+      "Academia"
+    ],
+    "address": {
+      "line": "R. Dr. João Evangelista Espíndola, 1690",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99672-3760",
+    "phoneUrl": "tel:+5541996723760",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20%C3%94nix%20-%20Personal%20%26%20Esthetic&query_place_id=ChIJB_P-36_l3JQRHAWwECSQVwk",
+    "rating": {
+      "value": 4.9,
+      "reviewCount": 16,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJB_P-36_l3JQRHAWwECSQVwk"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 7
+      }
+    ]
+  },
+  {
+    "id": "est_84d72930d2a3f716",
+    "slug": "subway-taruma",
+    "legacySlugs": [],
+    "name": "Subway - Tarumã",
+    "type": "Restaurante fast-food",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante fast-food",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1280",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "googleMapsUrl": "https://www.google.com/maps/place/Subway+-+Tarum%C3%A3/@-25.4289523,-49.2458953,15z/data=!4m10!1m2!2m1!1sSubway+-+Tarum%C3%A3,+Av.+Victor+Ferreira+do+Amaral,+1280+-+Loja+01+-+Tarum%C3%A3,+Curitiba+-+PR,+82800-000!3m6!1s0x94dce5a3bc886069:0xbfaace39824cd807!8m2!3d-25.4289523!4d-49.2268409!15sCmNTdWJ3YXkgLSBUYXJ1bcOjLCBBdi4gVmljdG9yIEZlcnJlaXJhIGRvIEFtYXJhbCwgMTI4MCAtIExvamEgMDEgLSBUYXJ1bcOjLCBDdXJpdGliYSAtIFBSLCA4MjgwMC0wMDBaWCJWc3Vid2F5IHRhcnVtw6MgYXYgdmljdG9yIGZlcnJlaXJhIGRvIGFtYXJhbCAxMjgwIGxvamEgMDEgdGFydW3DoyBjdXJpdGliYSBwciA4MjgwMCAwMDCSARRmYXN0X2Zvb2RfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuVFVOQmNYWnlaMFpSRUFF4AEA-gEECAAQEw!16s%2Fg%2F11b5yv3ly5?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D",
+    "distanceMeters": 1100,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 41
+      }
+    ]
+  },
+  {
+    "id": "est_5305c4eb9ab39d32",
+    "slug": "super-muffato-taruma",
+    "legacySlugs": [],
+    "name": "Super Muffato Tarumã",
+    "type": "Supermercado",
+    "primaryCategoryId": "supermercados",
+    "primaryCategoryLabel": "Supermercados",
+    "categoryIds": [
+      "supermercados",
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Supermercado",
+      "Supermercados",
+      "Alimentação - cafés e padarias"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1088",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3544-6800",
+    "phoneUrl": "tel:+554135446800",
+    "websiteUrl": "http://www.supermuffato.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Super%20Muffato%20Tarum%C3%A3&query_place_id=ChIJFV21OQni3JQR-WzIboCo3go",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 6494,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 900,
+    "food": {
+      "group": "Alimentação - cafés e padarias"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri",
+      "Mapeamento AOP Maia",
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {
+      "placeId": "ChIJFV21OQni3JQR-WzIboCo3go"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 38
+      },
+      {
+        "sheet": "Estabelecimentos - Maia",
+        "row": 5
+      },
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 32
+      }
+    ]
+  },
+  {
+    "id": "est_724ef34c94c9f8a9",
+    "slug": "tok-a-mais",
+    "legacySlugs": [],
+    "name": "Tok A Mais",
+    "type": "Salão de Beleza",
+    "primaryCategoryId": "servicos",
+    "primaryCategoryLabel": "Serviços",
+    "categoryIds": [
+      "servicos"
+    ],
+    "categoryTags": [
+      "Salão de Beleza",
+      "Barbearia",
+      "Esteticista",
+      "Massoterapeuta",
+      "Manicure",
+      "Cabeleireiro"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 1088",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3206-8997",
+    "phoneUrl": "tel:+554132068997",
+    "websiteUrl": "https://tokamais.com.br/Index.aspx",
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tok%20A%20Mais&query_place_id=ChIJvQGNjKTl3JQRsrncc4v9U4Q",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 122,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento AOP Yuri"
+    ],
+    "location": {
+      "placeId": "ChIJvQGNjKTl3JQRsrncc4v9U4Q"
+    },
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Yuri",
+        "row": 27
+      }
+    ]
+  },
+  {
+    "id": "est_8931d947db1f3641",
+    "slug": "we-love-espetinho-sushi",
+    "legacySlugs": [],
+    "name": "We Love Espetinho e Sushi",
+    "type": "Restaurante",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Restaurante",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 760",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 3040-8773",
+    "phoneUrl": "tel:+554130408773",
+    "websiteUrl": "https://weloveespetinho.com.br/",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=We+Love+Espetinho+e+Sushi,+Av.+Victor+Ferreira+do+Amaral,+760+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.4,
+      "reviewCount": 108,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 500,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 120,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 44
+      }
+    ]
+  },
+  {
+    "id": "est_c5462f9e98597ab8",
+    "slug": "yellow-dog-taruma",
+    "legacySlugs": [],
+    "name": "Yellow Dog | Hot Dog Tarumã",
+    "type": "Cachorro-quente",
+    "primaryCategoryId": "alimentacao",
+    "primaryCategoryLabel": "Alimentação",
+    "categoryIds": [
+      "alimentacao"
+    ],
+    "categoryTags": [
+      "Cachorro-quente",
+      "Alimentação - fast food e outros"
+    ],
+    "address": {
+      "line": "Av. Victor Ferreira do Amaral, 518",
+      "city": "Curitiba",
+      "state": "Paraná",
+      "countryCode": "BR"
+    },
+    "phone": "+55 41 99895-8195",
+    "phoneUrl": "tel:+5541998958195",
+    "websiteUrl": "https://www.ifood.com.br/delivery/curitiba-pr/yellow-dog-taruma/951555f4-176e-474a-8174-53636fae4995?prato=545558d1-4045-48ab-a6c4-97ba5ba2ba17&srsltid=AfmBOooZin-OCokUZvh5SVBoBRuSsNB3p2Ag5qX_mh4ZTCfcCJ1du61z",
+    "googleMapsUrl": "https://www.google.com/maps?sca_esv=0ab4c29f2e17ee32&output=search&q=Yellow+Dog+%7C+Hot+Dog+Tarum%C3%A3,+Av.+Victor+Ferreira+do+Amaral,+518+-+Tarum%C3%A3,+Curitiba+-+PR,+82530-230&source=lnms&fbs=ABfTbFVGaQeaqnsRPI5sOMG32KszjzN4g3YOmrBeWW1F-m8tPtOg9IWsjvSsBIhjG-wKIfX-pe4s8qHGnJkvHw8dRpzGwTXmQNMMdXMSSlJTZGusO2CBGIdneOobVzB0Rb9UNAqEqfix4oHYVrO2Qhua7R8Md0L0lTUOCCZHebZlzQ0iPdvwP6ouqPQy4_Vn_5HsBFOPt9Cqu7mJZN3JOUGgL0GoXjExOg&entry=mc&ved=1t:200715&ictx=111",
+    "rating": {
+      "value": 4.5,
+      "reviewCount": 184,
+      "verifiedAt": "12/08/2026",
+      "provider": "Google Maps"
+    },
+    "distanceMeters": 280,
+    "food": {
+      "group": "Alimentação - fast food e outros",
+      "ticket": {
+        "min": 20,
+        "max": 40,
+        "currency": "BRL"
+      }
+    },
+    "verifiedAt": "12/08/2026",
+    "sources": [
+      "Mapeamento Digital AOP Ian"
+    ],
+    "location": {},
+    "sourceRecords": [
+      {
+        "sheet": "Estabelecimentos - Ian",
+        "row": 47
+      }
+    ]
+  }
+]

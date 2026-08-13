@@ -1,0 +1,465 @@
+{
+  "sourceSha256": "270fa9816903619e43aebd3c51bea3a715676c0875e3802a4a46d532a102ecbc",
+  "sourceFile": "import/estabelecimentos consolidado.xlsx",
+  "sheets": {
+    "Estabelecimentos - Yuri": 40,
+    "Estabelecimentos - Maia": 36,
+    "Estabelecimentos - Ian": 48
+  },
+  "rawRecords": 124,
+  "canonicalRecords": 110,
+  "mergedRecords": 14,
+  "foodRawRecords": 36,
+  "foodCanonicalRecords": 33,
+  "foodWithTicket": 21,
+  "recordsWithPlaceId": 40,
+  "recordsWithManualCoordinates": 0,
+  "warnings": [
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "artha-hospital"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "assai-atacadista-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "banco-do-brasil-alto-da-xv-agencia-2926"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "barraca-do-claudio"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "bosque-de-portugal"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "briller-lavanderia-self-service"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "caixa-economica-federal"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "caldo-de-cana-praca-das-nacoes"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "casa-di-pao-sem-gluten"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "casa-eve"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "centro-de-nefrologia-nacoes"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "churras-express-assai"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "churrascaria-recanto-gaucho"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "cintia-cakes"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "condor-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "costelao-fontana"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "dalle-pizza-taruma"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "droga-raia"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "eixo-de-animacao-santa-catarina"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "familia-farinha"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "farmacias-nissei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "farmais-taruma"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "feira-noturna-de-produtos-organicos-terca-feira"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "festval-jardim-social"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "folhetim-bar"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "habibs-taruma"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "happy-burger-restaurante"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "hospital-das-nacoes"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "hospital-menino-deus"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "hospital-sante-de-curitiba"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "hotel-slim-curitiba-alto-da-xv"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "italo-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "jardim-botanico-municipal-de-curitiba"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "jet-oil"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "jet-oil-5b80d1"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "jet-oil-jardim-social"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "jockey-plaza-shopping"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "lavanderia-lavo-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "leve-sabor"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "limoeiro-casa-de-comidas"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "los-loccos-curitiba"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "madero-jardim-social"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "mamae-urso-cafe"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "maxifarma-taruma"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "mcdonalds-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "museu-planeta-agua"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "notrelabs-cmd"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "paiol-do-joao"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "panvel-farmacias"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "panvel-farmacias-e61936"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "pet-millan-pet-shop"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "pet-shop-rei-dos-animais-al-to-da-xv"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "petshop-lady-luna"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "polloshop"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "posto-das-nacoes-petrobras"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "praca-da-polonia"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "praca-das-nacoes"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "praca-sao-francisco-de-assis"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "praca-vila-lobos-jardim-social"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "restaurante-peixinho-pizzaria"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "restaurante-peruano"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "restaurante-quinoa-225"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "restaurante-slow-fire"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "restaurante-yifan"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "rodizio-de-pizza"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "saint-georges-panificadora"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "shopping-cristo-rei"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "subway-taruma"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "we-love-espetinho-sushi"
+    },
+    {
+      "code": "LOCATION_PENDING",
+      "slug": "yellow-dog-taruma"
+    }
+  ],
+  "merges": [
+    {
+      "slug": "arroba-lavanderia-lavanderia-em-curitiba",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 13
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 24
+        }
+      ]
+    },
+    {
+      "slug": "banco24horas",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 2
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 15
+        }
+      ]
+    },
+    {
+      "slug": "caixa-eletronico-bradesco",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 3
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 16
+        }
+      ]
+    },
+    {
+      "slug": "clean-up-lavanderias",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 26
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 22
+        }
+      ]
+    },
+    {
+      "slug": "correios-agf-nacoes",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 14
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 14
+        }
+      ]
+    },
+    {
+      "slug": "dalle-pizza-taruma",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 25
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 46
+        }
+      ]
+    },
+    {
+      "slug": "festval-jardim-social",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 7
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 33
+        }
+      ]
+    },
+    {
+      "slug": "habibs-taruma",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 24
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 38
+        }
+      ]
+    },
+    {
+      "slug": "laundromat-lavanderia-self-service",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 6
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 26
+        }
+      ]
+    },
+    {
+      "slug": "leve-sabor",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 29
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 36
+        }
+      ]
+    },
+    {
+      "slug": "rio-verde",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 37
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 6
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 31
+        }
+      ]
+    },
+    {
+      "slug": "super-muffato-taruma",
+      "sourceRecords": [
+        {
+          "sheet": "Estabelecimentos - Yuri",
+          "row": 38
+        },
+        {
+          "sheet": "Estabelecimentos - Maia",
+          "row": 5
+        },
+        {
+          "sheet": "Estabelecimentos - Ian",
+          "row": 32
+        }
+      ]
+    }
+  ]
+}

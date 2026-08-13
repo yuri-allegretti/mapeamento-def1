@@ -1,16 +1,16 @@
 import Link from "next/link";
 import type { Establishment, PartnerBenefit } from "@/data/types";
 import { establishmentRoute } from "@/lib/routes";
-import { WalkingTime } from "./WalkingTime";
+import { Distance } from "./Distance";
 
 export function PartnerCard({ establishment, benefit }: { establishment: Establishment; benefit: PartnerBenefit }) {
   return (
     <article className="border border-[var(--line)] bg-white p-5">
-      <p className="text-xs font-bold uppercase tracking-wide text-[var(--gold)]">Parceria simulada · {establishment.categoryLabel}</p>
+      <p className="text-xs font-bold uppercase tracking-wide text-[var(--gold)]">Parceria simulada · {establishment.primaryCategoryLabel}</p>
       <h2 className="mt-2 text-xl font-bold text-[var(--forest)]">{establishment.name}</h2>
       <p className="mt-2 text-lg font-bold">{benefit.title}</p>
       <p className="mt-1 text-sm text-[var(--muted)]">{benefit.summary}</p>
-      <div className="mt-3"><WalkingTime minutes={establishment.walkingMinutes} compact /></div>
+      <div className="mt-3"><Distance meters={establishment.distanceMeters} compact /></div>
       <details className="mt-4 border-t border-[var(--line)] pt-3">
         <summary className="min-h-11 font-bold text-[var(--forest)]">Ver regras demonstrativas</summary>
         <p className="mt-2 text-sm">{benefit.proofMethod}</p>

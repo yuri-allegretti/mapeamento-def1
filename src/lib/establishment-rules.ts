@@ -1,152 +1,73 @@
-import type { Establishment, PartnerBenefit } from "@/data/types";
+import type { Establishment } from "@/data/types";
 
 export type FoodFilters = {
   search: string;
-  partnersOnly: boolean;
-  cuisine: string;
+  group: string;
   ticketMax: number | null;
-  vrCard: string;
-  maxWalkingMinutes: number | null;
+  maxDistanceMeters: number | null;
 };
 
-export type FoodSort = "walking" | "ticket" | "name";
+export type FoodSort = "distance" | "ticket" | "name";
 
 export const defaultFoodFilters: FoodFilters = {
   search: "",
-  partnersOnly: false,
-  cuisine: "",
+  group: "",
   ticketMax: null,
-  vrCard: "",
-  maxWalkingMinutes: null,
+  maxDistanceMeters: null,
 };
 
 const normalizeText = (value: string) =>
-  value
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLocaleLowerCase("pt-BR");
+  value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase("pt-BR");
 
-export function filterFoodEstablishments(
-  establishments: Establishment[],
-  filters: FoodFilters,
-  benefits: PartnerBenefit[],
-) {
-  const activePartnerSlugs = new Set(
-    benefits
-      .filter((benefit) => benefit.isActive)
-      .map((benefit) => benefit.establishmentSlug),
-  );
-  const normalizedSearch = normalizeText(filters.search.trim());
-
+export function filterFoodEstablishments(establishments: Establishment[], filters: FoodFilters) {
+  const search = normalizeText(filters.search.trim());
   return establishments.filter((establishment) => {
     if (!establishment.food) return false;
-    if (
-      normalizedSearch &&
-      !normalizeText(`${establishment.name} ${establishment.food.cuisine}`).includes(
-        normalizedSearch,
-      )
-    ) {
-      return false;
-    }
-    if (filters.partnersOnly && !activePartnerSlugs.has(establishment.slug)) {
-      return false;
-    }
-    if (filters.cuisine && establishment.food.cuisine !== filters.cuisine) {
-      return false;
-    }
-    if (
-      filters.ticketMax !== null &&
-      establishment.food.ticketMin > filters.ticketMax
-    ) {
-      return false;
-    }
-    if (
-      filters.vrCard &&
-      !establishment.food.vrCards.includes(filters.vrCard)
-    ) {
-      return false;
-    }
-    if (
-      filters.maxWalkingMinutes !== null &&
-      establishment.walkingMinutes > filters.maxWalkingMinutes
-    ) {
-      return false;
-    }
+    if (search && !normalizeText(`${establishment.name} ${establishment.type} ${establishment.food.group}`).includes(search)) return false;
+    if (filters.group && establishment.food.group !== filters.group) return false;
+    if (filters.ticketMax !== null && (!establishment.food.ticket || establishment.food.ticket.min > filters.ticketMax)) return false;
+    if (filters.maxDistanceMeters !== null && (establishment.distanceMeters === undefined || establishment.distanceMeters > filters.maxDistanceMeters)) return false;
     return true;
   });
 }
 
-export function sortFoodEstablishments(
-  establishments: Establishment[],
-  sort: FoodSort,
-) {
+export function sortFoodEstablishments(establishments: Establishment[], sort: FoodSort) {
   return [...establishments].sort((a, b) => {
-    if (sort === "walking") {
-      return a.walkingMinutes - b.walkingMinutes || a.name.localeCompare(b.name);
-    }
-    if (sort === "ticket") {
-      return (
-        (a.food?.ticketMin ?? Number.POSITIVE_INFINITY) -
-          (b.food?.ticketMin ?? Number.POSITIVE_INFINITY) ||
-        a.name.localeCompare(b.name)
-      );
-    }
+    if (sort === "distance") return (a.distanceMeters ?? Infinity) - (b.distanceMeters ?? Infinity) || a.name.localeCompare(b.name, "pt-BR");
+    if (sort === "ticket") return (a.food?.ticket?.min ?? Infinity) - (b.food?.ticket?.min ?? Infinity) || a.name.localeCompare(b.name, "pt-BR");
     return a.name.localeCompare(b.name, "pt-BR");
   });
 }
 
 export function deriveFoodOptions(establishments: Establishment[]) {
-  const food = establishments.filter(
-    (establishment): establishment is Establishment & { food: NonNullable<Establishment["food"]> } =>
-      Boolean(establishment.food),
-  );
-
   return {
-    cuisines: [...new Set(food.map((establishment) => establishment.food.cuisine))].sort(
-      (a, b) => a.localeCompare(b, "pt-BR"),
-    ),
-    vrCards: [...new Set(food.flatMap((establishment) => establishment.food.vrCards))].sort(
-      (a, b) => a.localeCompare(b, "pt-BR"),
-    ),
+    groups: [...new Set(establishments.flatMap((item) => item.food?.group ? [item.food.group] : []))].sort((a, b) => a.localeCompare(b, "pt-BR")),
   };
 }
 
 export function serializeFoodState(filters: FoodFilters, sort: FoodSort) {
   const params = new URLSearchParams();
   if (filters.search) params.set("q", filters.search);
-  if (filters.partnersOnly) params.set("parceiros", "1");
-  if (filters.cuisine) params.set("gastronomia", filters.cuisine);
+  if (filters.group) params.set("grupo", filters.group);
   if (filters.ticketMax !== null) params.set("ticket", String(filters.ticketMax));
-  if (filters.vrCard) params.set("vr", filters.vrCard);
-  if (filters.maxWalkingMinutes !== null) {
-    params.set("caminhada", String(filters.maxWalkingMinutes));
-  }
-  if (sort !== "walking") params.set("ordem", sort);
+  if (filters.maxDistanceMeters !== null) params.set("distancia", String(filters.maxDistanceMeters));
+  if (sort !== "distance") params.set("ordem", sort);
   return params.toString();
 }
 
-export function parseFoodState(params: URLSearchParams): {
-  filters: FoodFilters;
-  sort: FoodSort;
-} {
+export function parseFoodState(params: URLSearchParams): { filters: FoodFilters; sort: FoodSort } {
   const numeric = (key: string) => {
     const value = Number(params.get(key));
     return Number.isFinite(value) && value > 0 ? value : null;
   };
   const requestedSort = params.get("ordem");
-
   return {
     filters: {
       search: params.get("q") ?? "",
-      partnersOnly: params.get("parceiros") === "1",
-      cuisine: params.get("gastronomia") ?? "",
+      group: params.get("grupo") ?? "",
       ticketMax: numeric("ticket"),
-      vrCard: params.get("vr") ?? "",
-      maxWalkingMinutes: numeric("caminhada"),
+      maxDistanceMeters: numeric("distancia"),
     },
-    sort:
-      requestedSort === "ticket" || requestedSort === "name"
-        ? requestedSort
-        : "walking",
+    sort: requestedSort === "ticket" || requestedSort === "name" ? requestedSort : "distance",
   };
 }

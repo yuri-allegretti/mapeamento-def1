@@ -1,0 +1,9 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { MobileHeader } from "@/components/MobileHeader";
+
+export const metadata: Metadata = { title: "Privacidade" };
+
+export default function PrivacyPage() {
+  return <><MobileHeader title="Privacidade" backHref="/guia" /><main id="conteudo"><header className="brand-pattern border-b border-[var(--leaf-strong)]"><div className="page-shell max-w-4xl py-10 lg:py-14"><p className="eyebrow">Transparência</p><h1 className="mt-2 text-4xl font-bold text-[var(--forest)] lg:text-5xl">Política de privacidade</h1><p className="mt-3 text-sm text-[var(--muted)]">Versão de 12 de agosto de 2026.</p></div></header><div className="page-shell max-w-4xl py-10"><div className="space-y-4 leading-7 text-[var(--muted)]"><section className="card-surface p-6"><h2 className="text-xl font-bold text-[var(--forest)]">Consulta ao guia</h2><p className="mt-2">Esta versão não exige conta, não solicita a localização do dispositivo e não carrega serviços externos de mapas. A busca, os filtros e a cópia de endereços funcionam no navegador.</p></section><section className="card-surface p-6"><h2 className="text-xl font-bold text-[var(--forest)]">Formulários demonstrativos</h2><p className="mt-2">O formulário “Seja parceiro” ainda é uma simulação local e não envia nem armazena a submissão em um serviço externo. Isso deverá ser revisto antes de ativar um canal real.</p></section><section className="card-surface p-6"><h2 className="text-xl font-bold text-[var(--forest)]">Dados dos estabelecimentos</h2><p className="mt-2">As informações publicadas descrevem pessoas jurídicas e locais de atendimento. Telefones, sites e endereços são exibidos como dados de contato comercial provenientes do levantamento consolidado.</p></section></div><Link href="/guia" className="button-secondary mt-8">← Voltar ao guia</Link></div></main></>;
+}

@@ -1,17 +1,23 @@
 @import "tailwindcss";
 
 :root {
-  --forest: #173f32;
-  --forest-strong: #0f2f25;
-  --leaf: #e4f0e9;
-  --leaf-strong: #c9dfd1;
-  --sand: #f5eedf;
-  --gold: #9a6d24;
-  --ink: #1f2925;
-  --muted: #66716c;
-  --line: #d9dfdc;
+  --forest: #243e1e;
+  --forest-strong: #172b13;
+  --forest-soft: #487d3b;
+  --leaf: #e8f4e5;
+  --leaf-strong: #a5d29b;
+  --brand-green: #6cbb59;
+  --brand-green-pale: #c8e8c0;
+  --sand: #fff5df;
+  --gold: #9a6710;
+  --sun: #ffc354;
+  --ink: #2a2a2a;
+  --muted: #626960;
+  --line: #dfe5dc;
   --surface: #ffffff;
-  --soft: #f6f8f7;
+  --soft: #f5f7f4;
+  --shadow-sm: 0 8px 24px rgba(36, 62, 30, 0.08);
+  --shadow-md: 0 18px 44px rgba(36, 62, 30, 0.13);
 }
 
 * {
@@ -24,9 +30,15 @@ html {
 
 body {
   margin: 0;
-  background: var(--surface);
+  background: #fbfcfa;
   color: var(--ink);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-montserrat), Montserrat, Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--brand-green-pale);
+  color: var(--forest-strong);
 }
 
 a,
@@ -34,8 +46,13 @@ button,
 input,
 select,
 textarea {
-  outline-color: var(--gold);
+  outline-color: var(--sun);
   outline-offset: 3px;
+}
+
+a,
+button {
+  transition: color 160ms ease, background-color 160ms ease, border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
 }
 
 a:focus-visible,
@@ -43,7 +60,7 @@ button:focus-visible,
 input:focus-visible,
 select:focus-visible,
 textarea:focus-visible {
-  outline: 3px solid #b98a3d;
+  outline: 3px solid var(--sun);
 }
 
 button,
@@ -51,22 +68,140 @@ select {
   cursor: pointer;
 }
 
+button:disabled {
+  cursor: not-allowed;
+}
+
 .page-shell {
   margin: 0 auto;
-  width: min(100% - 2rem, 78rem);
+  width: min(100% - 2rem, 80rem);
+}
+
+.eyebrow {
+  color: var(--gold);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.card-surface {
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  background: var(--surface);
+  box-shadow: var(--shadow-sm);
+}
+
+.card-interactive:hover {
+  border-color: var(--leaf-strong);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.button-primary,
+.button-secondary,
+.button-light,
+.button-ghost {
+  display: inline-flex;
+  min-height: 3rem;
+  align-items: center;
+  justify-content: center;
+  gap: 0.55rem;
+  border-radius: 0.75rem;
+  padding: 0.7rem 1.25rem;
+  font-size: 0.875rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.button-primary {
+  border: 1px solid var(--forest);
+  background: var(--forest);
+  color: white;
+  box-shadow: 0 8px 20px rgba(36, 62, 30, 0.16);
+}
+
+.button-primary:hover {
+  border-color: var(--forest-strong);
+  background: var(--forest-strong);
+  transform: translateY(-1px);
+}
+
+.button-secondary {
+  border: 1px solid var(--forest-soft);
+  background: white;
+  color: var(--forest);
+}
+
+.button-secondary:hover {
+  border-color: var(--forest);
+  background: var(--leaf);
+}
+
+.button-light {
+  border: 1px solid white;
+  background: white;
+  color: var(--forest);
+}
+
+.button-light:hover {
+  background: var(--leaf);
+}
+
+.button-ghost {
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  background: rgba(255, 255, 255, 0.06);
+  color: white;
+}
+
+.button-ghost:hover {
+  background: rgba(255, 255, 255, 0.14);
+}
+
+.field-control {
+  min-height: 3rem;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: white;
+  padding: 0.75rem 0.9rem;
+  color: var(--ink);
+  box-shadow: 0 1px 0 rgba(36, 62, 30, 0.03);
+}
+
+.field-control:hover {
+  border-color: var(--leaf-strong);
+}
+
+.brand-pattern {
+  background-color: var(--leaf);
+  background-image:
+    radial-gradient(ellipse at 20% 30%, rgba(108, 187, 89, 0.28) 0 13%, transparent 14%),
+    radial-gradient(ellipse at 72% 68%, rgba(72, 125, 59, 0.18) 0 18%, transparent 19%),
+    radial-gradient(ellipse at 82% 18%, rgba(200, 232, 192, 0.9) 0 16%, transparent 17%);
+}
+
+.hero-shade {
+  background: linear-gradient(90deg, rgba(23, 43, 19, 0.96) 0%, rgba(36, 62, 30, 0.88) 48%, rgba(36, 62, 30, 0.38) 100%);
 }
 
 .map-grid {
-  background-color: #eef3ef;
+  background-color: #eef5ec;
   background-image:
-    linear-gradient(rgba(23, 63, 50, 0.09) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(23, 63, 50, 0.09) 1px, transparent 1px),
-    linear-gradient(27deg, transparent 44%, rgba(154, 109, 36, 0.18) 45%, rgba(154, 109, 36, 0.18) 47%, transparent 48%);
+    linear-gradient(rgba(72, 125, 59, 0.09) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(72, 125, 59, 0.09) 1px, transparent 1px),
+    linear-gradient(27deg, transparent 44%, rgba(255, 195, 84, 0.24) 45%, rgba(255, 195, 84, 0.24) 47%, transparent 48%);
   background-size: 32px 32px, 32px 32px, 180px 180px;
 }
 
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
+  }
+
+  a,
+  button {
+    transition: none;
   }
 }

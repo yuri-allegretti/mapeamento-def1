@@ -9,8 +9,8 @@ type Entry = { establishment: Establishment; benefit: PartnerBenefit };
 
 export function PartnerExplorer({ entries }: { entries: Entry[] }) {
   const [category, setCategory] = useState("");
-  const categories = useMemo(() => [...new Map(entries.map((entry) => [entry.establishment.category, entry.establishment.categoryLabel])).entries()], [entries]);
-  const visible = category ? entries.filter((entry) => entry.establishment.category === category) : entries;
+  const categories = useMemo(() => [...new Map(entries.map((entry) => [entry.establishment.primaryCategoryId, entry.establishment.primaryCategoryLabel])).entries()], [entries]);
+  const visible = category ? entries.filter((entry) => entry.establishment.primaryCategoryId === category) : entries;
   return (
     <section>
       <div className="flex gap-2 overflow-x-auto pb-2" aria-label="Filtrar parceiros por categoria">

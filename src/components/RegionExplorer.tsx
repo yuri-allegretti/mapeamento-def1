@@ -4,50 +4,68 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Establishment } from "@/data/types";
 import { establishmentRoute } from "@/lib/routes";
-import { MapPlaceholder } from "./MapPlaceholder";
-import { WalkingTime } from "./WalkingTime";
+import { CopyAddressButton } from "./CopyAddressButton";
+import { Distance } from "./Distance";
+import { GuideIcon } from "./GuideIcon";
+import { Rating } from "./Rating";
+
+function matchesSearch(establishment: Establishment, search: string) {
+  const term = search.trim().toLocaleLowerCase("pt-BR");
+  if (!term) return true;
+  return [
+    establishment.name,
+    establishment.type,
+    establishment.primaryCategoryLabel,
+    establishment.address.line,
+  ].some((value) => value.toLocaleLowerCase("pt-BR").includes(term));
+}
 
 export function RegionExplorer({ establishments }: { establishments: Establishment[] }) {
   const [category, setCategory] = useState("");
-  const [selectedSlug, setSelectedSlug] = useState<string | undefined>(establishments[0]?.slug);
-  const [mobileMapOpen, setMobileMapOpen] = useState(false);
-  const categories = useMemo(() => [...new Map(establishments.map((item) => [item.category, item.categoryLabel])).entries()], [establishments]);
-  const visible = category ? establishments.filter((item) => item.category === category) : establishments;
-  const selected = visible.find((item) => item.slug === selectedSlug) ?? visible[0];
-  const selectCategory = (next: string) => {
-    setCategory(next);
-    const first = next ? establishments.find((item) => item.category === next) : establishments[0];
-    setSelectedSlug(first?.slug);
+  const [search, setSearch] = useState("");
+  const categories = useMemo(
+    () => [...new Map(establishments.map((item) => [item.primaryCategoryId, item.primaryCategoryLabel])).entries()].sort((a, b) => a[1].localeCompare(b[1], "pt-BR")),
+    [establishments],
+  );
+  const visible = useMemo(
+    () => establishments.filter((item) => (!category || item.primaryCategoryId === category) && matchesSearch(item, search)),
+    [category, establishments, search],
+  );
+
+  const categoryButton = (value: string, label: string, count: number) => {
+    const active = category === value;
+    return <button type="button" key={value || "all"} aria-pressed={active} onClick={() => setCategory(value)} className={`min-h-12 w-full rounded-xl border px-3 text-left text-sm font-bold ${active ? "border-[var(--forest)] bg-[var(--forest)] text-white" : "border-[var(--line)] bg-white text-[var(--muted)] hover:border-[var(--leaf-strong)] hover:text-[var(--forest)]"}`}>{label}<span className={`float-right ml-2 rounded-full px-2 py-0.5 text-xs ${active ? "bg-white/15" : "bg-[var(--soft)]"}`}>{count}</span></button>;
   };
 
-  return (
-    <>
-      <section className="lg:hidden">
-        <div className="grid grid-cols-2 gap-2" aria-label="Categorias da região">
-          {categories.map(([value, label]) => <button type="button" key={value} aria-pressed={category === value} onClick={() => selectCategory(category === value ? "" : value)} className={`min-h-14 border px-3 text-left text-sm font-bold ${category === value ? "border-[var(--forest)] bg-[var(--leaf)] text-[var(--forest)]" : "border-[var(--line)] bg-white"}`}>{label}<span className="mt-1 block text-xs font-normal text-[var(--muted)]">{establishments.filter((item) => item.category === value).length} referências</span></button>)}
-        </div>
-        <button type="button" onClick={() => setMobileMapOpen((open) => !open)} aria-expanded={mobileMapOpen} className="mt-4 min-h-12 w-full bg-[var(--forest)] px-4 font-bold text-white">{mobileMapOpen ? "Fechar mapa estrutural" : "Abrir mapa estrutural"}</button>
-        {mobileMapOpen && <div className="mt-3"><MapPlaceholder items={visible} selectedSlug={selected?.slug} onSelect={setSelectedSlug} className="min-h-[28rem]" /></div>}
-        <div className="mt-6 space-y-3">
-          {visible.slice(0, 6).map((item) => <article key={item.slug} className="border border-[var(--line)] bg-white p-4"><p className="text-xs font-bold uppercase text-[var(--muted)]">{item.categoryLabel} · {item.subcategory}</p><h3 className="mt-1 text-lg font-bold text-[var(--forest)]">{item.name}</h3><div className="mt-2"><WalkingTime minutes={item.walkingMinutes} compact /></div><Link href={`${establishmentRoute(item.slug)}?from=regiao`} className="mt-3 inline-flex min-h-11 items-center font-bold text-[var(--forest)] underline">Ver detalhes</Link></article>)}
-        </div>
-      </section>
+  const card = (item: Establishment) => (
+    <article key={item.slug} className="card-surface card-interactive flex flex-col p-5">
+      <p className="eyebrow">{item.primaryCategoryLabel} · {item.type}</p>
+      <h2 className="mt-1 text-xl font-bold text-[var(--forest)]">{item.name}</h2>
+      <div className="mt-2"><Rating rating={item.rating} compact /></div>
+      <div className="mt-3"><Distance meters={item.distanceMeters} compact /></div>
+      <p className="mt-3 text-sm text-[var(--muted)]">{item.address.line}</p>
+      <div className="mt-auto grid grid-cols-2 gap-2 pt-5">
+        <CopyAddressButton address={item.address} className="button-primary min-h-11 px-3" />
+        <Link href={`${establishmentRoute(item.slug)}?from=regiao`} className="button-secondary min-h-11 px-3">Ver detalhes</Link>
+      </div>
+    </article>
+  );
 
-      <section className="hidden grid-cols-[17rem_minmax(30rem,1fr)_20rem] border border-[var(--line)] lg:grid">
-        <aside className="bg-[var(--soft)] p-5">
-          <h2 className="font-bold text-[var(--forest)]">Camadas</h2>
-          <div className="mt-4 space-y-2">
-            <button type="button" aria-pressed={!category} onClick={() => selectCategory("")} className={`min-h-11 w-full border px-3 text-left text-sm font-bold ${!category ? "border-[var(--forest)] bg-[var(--leaf)]" : "border-[var(--line)] bg-white"}`}>Todas as categorias</button>
-            {categories.map(([value, label]) => <button type="button" key={value} aria-pressed={category === value} onClick={() => selectCategory(value)} className={`min-h-11 w-full border px-3 text-left text-sm font-bold ${category === value ? "border-[var(--forest)] bg-[var(--leaf)]" : "border-[var(--line)] bg-white"}`}>{label}<span className="float-right text-[var(--muted)]">{establishments.filter((item) => item.category === value).length}</span></button>)}
-          </div>
-        </aside>
-        <MapPlaceholder items={visible} selectedSlug={selected?.slug} onSelect={setSelectedSlug} className="min-h-[38rem] border-y-0" />
-        <aside className="p-5">
-          <p className="text-xs font-bold uppercase tracking-wide text-[var(--muted)]">Ponto selecionado</p>
-          {selected ? <div><h2 className="mt-2 text-xl font-bold text-[var(--forest)]">{selected.name}</h2><p className="mt-2 text-sm text-[var(--muted)]">{selected.subcategory}</p><p className="mt-3 text-sm">{selected.description}</p><div className="mt-3"><WalkingTime minutes={selected.walkingMinutes} /></div><Link href={`${establishmentRoute(selected.slug)}?from=regiao`} className="mt-5 flex min-h-11 items-center justify-center border border-[var(--forest)] font-bold text-[var(--forest)]">Ver estabelecimento</Link></div> : <p className="mt-3 text-sm">Selecione um marcador.</p>}
-          <div className="mt-6 border-t border-[var(--line)] pt-4"><p className="text-sm font-bold">O mapa é opcional</p><p className="mt-1 text-xs text-[var(--muted)]">Lista, endereços e detalhes continuam disponíveis sem a representação cartográfica.</p></div>
-        </aside>
-      </section>
-    </>
+  return (
+    <section className="grid gap-6 lg:grid-cols-[18rem_minmax(0,1fr)]">
+      <aside className="card-surface self-start p-4 lg:sticky lg:top-24 lg:p-5">
+        <label className="text-sm font-bold text-[var(--forest)]" htmlFor="region-search">Pesquisar na região</label>
+        <div className="relative mt-2"><GuideIcon name="search" className="pointer-events-none absolute left-3 top-3.5 h-5 w-5 text-[var(--muted)]" /><input id="region-search" type="search" value={search} onChange={(event) => setSearch(event.target.value)} placeholder="Nome, tipo ou endereço" className="field-control pl-11" /></div>
+        <h2 className="mt-5 font-bold text-[var(--forest)]">Categorias</h2>
+        <div className="mt-3 grid grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-1">
+          {categoryButton("", "Todas", establishments.length)}
+          {categories.map(([value, label]) => categoryButton(value, label, establishments.filter((item) => item.primaryCategoryId === value).length))}
+        </div>
+      </aside>
+      <div>
+        <p className="mb-4 text-sm text-[var(--muted)]" aria-live="polite"><strong className="text-[var(--ink)]">{visible.length}</strong> estabelecimentos encontrados</p>
+        {visible.length ? <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">{visible.map(card)}</div> : <div className="brand-pattern rounded-2xl border border-[var(--leaf-strong)] p-8 text-center"><h2 className="text-xl font-bold text-[var(--forest)]">Nenhum estabelecimento encontrado</h2><p className="mt-2 text-sm text-[var(--muted)]">Altere a busca ou selecione outra categoria.</p><button type="button" onClick={() => { setSearch(""); setCategory(""); }} className="button-secondary mt-5">Limpar busca</button></div>}
+      </div>
+    </section>
   );
 }

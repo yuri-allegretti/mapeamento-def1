@@ -4,10 +4,13 @@ import { partnerBenefits } from "./partners";
 export const getAllEstablishments = () => establishments;
 
 export const getFoodEstablishments = () =>
-  establishments.filter((establishment) => establishment.category === "alimentacao");
+  establishments.filter((establishment) => Boolean(establishment.food));
 
 export const getEstablishmentBySlug = (slug: string) =>
-  establishments.find((establishment) => establishment.slug === slug);
+  establishments.find(
+    (establishment) =>
+      establishment.slug === slug || establishment.legacySlugs.includes(slug),
+  );
 
 export const getPartnerBenefit = (slug: string) =>
   partnerBenefits.find(

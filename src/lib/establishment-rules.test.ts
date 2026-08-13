@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { getFoodEstablishments, partnerBenefits } from "@/data";
+import { getFoodEstablishments } from "@/data";
 import {
   defaultFoodFilters,
   filterFoodEstablishments,
@@ -8,48 +8,40 @@ import {
   sortFoodEstablishments,
 } from "./establishment-rules";
 
-describe("food filtering and sorting", () => {
+describe("filtros e ordenação de alimentação", () => {
   const food = getFoodEstablishments();
 
-  it("combines search, partner, VR, ticket and walking filters", () => {
-    const result = filterFoodEstablishments(
-      food,
-      {
-        search: "quinoa",
-        partnersOnly: true,
-        cuisine: "Brasileira",
-        ticketMax: 40,
-        vrCard: "Alelo",
-        maxWalkingMinutes: 10,
-      },
-      partnerBenefits,
-    );
-    expect(result.map((item) => item.slug)).toEqual(["restaurante-quinoa-225"]);
+  it("combina busca, grupo, ticket e distância com dados conhecidos", () => {
+    const candidate = food.find((item) => item.food?.ticket && item.distanceMeters !== undefined);
+    expect(candidate).toBeDefined();
+    const result = filterFoodEstablishments(food, {
+      search: candidate!.name,
+      group: candidate!.food!.group,
+      ticketMax: candidate!.food!.ticket!.min,
+      maxDistanceMeters: candidate!.distanceMeters!,
+    });
+    expect(result.map((item) => item.slug)).toContain(candidate!.slug);
   });
 
-  it("never includes an incompatible partner ahead of compatible results", () => {
-    const result = filterFoodEstablishments(
-      food,
-      { ...defaultFoodFilters, partnersOnly: true, cuisine: "Pizzaria" },
-      partnerBenefits,
-    );
-    expect(result.map((item) => item.slug)).toEqual(["dalle-pizza-taruma"]);
-    expect(result.some((item) => item.slug === "habibs-taruma")).toBe(false);
+  it("não assume valores ausentes ao aplicar filtros numéricos", () => {
+    expect(filterFoodEstablishments(food, { ...defaultFoodFilters, ticketMax: 100 }).every((item) => item.food?.ticket)).toBe(true);
+    expect(filterFoodEstablishments(food, { ...defaultFoodFilters, maxDistanceMeters: 2000 }).every((item) => item.distanceMeters !== undefined)).toBe(true);
   });
 
-  it("sorts by walking minutes and then by name", () => {
-    const result = sortFoodEstablishments(food, "walking");
-    expect(result[0].walkingMinutes).toBeLessThanOrEqual(result[1].walkingMinutes);
-    expect(result.at(-1)?.walkingMinutes).toBeGreaterThanOrEqual(result[0].walkingMinutes);
+  it("ordena valores conhecidos antes dos ausentes", () => {
+    const byDistance = sortFoodEstablishments(food, "distance");
+    const knownDistances = byDistance.filter((item) => item.distanceMeters !== undefined).map((item) => item.distanceMeters!);
+    expect(knownDistances).toEqual([...knownDistances].sort((a, b) => a - b));
+    const firstUnknownDistance = byDistance.findIndex((item) => item.distanceMeters === undefined);
+    expect(firstUnknownDistance === -1 || firstUnknownDistance >= knownDistances.length).toBe(true);
+
+    const byTicket = sortFoodEstablishments(food, "ticket");
+    const knownTickets = byTicket.filter((item) => item.food?.ticket).map((item) => item.food!.ticket!.min);
+    expect(knownTickets).toEqual([...knownTickets].sort((a, b) => a - b));
   });
 
-  it("sorts by minimum ticket", () => {
-    const result = sortFoodEstablishments(food, "ticket");
-    expect(result[0].food?.ticketMin).toBe(12);
-  });
-
-  it("round-trips filter state through the URL", () => {
-    const filters = { ...defaultFoodFilters, search: "pizza", partnersOnly: true, ticketMax: 60, vrCard: "VR", maxWalkingMinutes: 10 };
+  it("serializa e restaura o estado pela URL", () => {
+    const filters = { ...defaultFoodFilters, search: "pizza", group: "Alimentação Restaurantes", ticketMax: 60, maxDistanceMeters: 1500 };
     const query = serializeFoodState(filters, "ticket");
     expect(parseFoodState(new URLSearchParams(query))).toEqual({ filters, sort: "ticket" });
   });
