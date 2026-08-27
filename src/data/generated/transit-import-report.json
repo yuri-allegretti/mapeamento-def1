@@ -1,0 +1,38 @@
+{
+  "sourceFile": "Linhas de onibus AOP.xlsx",
+  "sourceSha256": "a3c1546f719db44b88ef18e3217a13aa016aa35c8b6b3f1d780ab8db4fd5033d",
+  "generatedFrom": {
+    "stops": "Pontos oficiais",
+    "lines": "Linhas"
+  },
+  "counts": {
+    "stops": 69,
+    "publishedLines": 17,
+    "pendingLines": 7,
+    "excludedLines": 1,
+    "publishedLineStopRelations": 153,
+    "publishedLineDirectionPairs": 29,
+    "distanceBands": {
+      "Até 300 m": 8,
+      "301–600 m": 20,
+      "601–1.000 m": 41
+    }
+  },
+  "qualityNotes": {
+    "accessibilityNotInformed": 69,
+    "stopsWithoutPhysicalMarking": 2,
+    "stopsWithoutNeighborhood": 8
+  },
+  "pendingLineCodes": [
+    "220",
+    "B03",
+    "C03",
+    "D01",
+    "D02",
+    "D66",
+    "D69"
+  ],
+  "excludedLineCodes": [
+    "X90"
+  ]
+}

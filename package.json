@@ -4,14 +4,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run import:data:check && next build",
+    "build": "npm run import:data:check && npm run import:transit:check && next build",
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "next typegen && tsc --noEmit",
     "test": "vitest run",
     "test:watch": "vitest",
     "import:data": "node scripts/import-establishments.mjs",
-    "import:data:check": "node scripts/import-establishments.mjs --check"
+    "import:data:check": "node scripts/import-establishments.mjs --check",
+    "import:transit": "node scripts/import-transit.mjs",
+    "import:transit:check": "node scripts/import-transit.mjs --check"
   },
   "dependencies": {
     "next": "^16.3.0",

@@ -1,5 +1,6 @@
 import { establishments } from "./establishments";
 import { partnerBenefits } from "./partners";
+import { pendingTransitLines, publishedTransitLines, transitData, transitStops } from "./transit";
 
 export const getAllEstablishments = () => establishments;
 
@@ -29,5 +30,5 @@ export const getPartnerEstablishments = () =>
         Boolean(entry.establishment),
     );
 
-export { establishments, partnerBenefits };
+export { establishments, partnerBenefits, pendingTransitLines, publishedTransitLines, transitData, transitStops };
 export * from "./types";

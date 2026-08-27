@@ -2,17 +2,48 @@ import type { Metadata } from "next";
 import { GuideIcon } from "@/components/GuideIcon";
 import { MobileHeader } from "@/components/MobileHeader";
 import { MobileNav } from "@/components/MobileNav";
-import { SimulationNotice } from "@/components/SimulationNotice";
-import { TransitMapPlaceholder } from "@/components/MapPlaceholder";
-import { WalkingTime } from "@/components/WalkingTime";
-import { transitStops } from "@/data/transit";
+import { TransitExplorer } from "@/components/TransitExplorer";
+import { transitData } from "@/data/transit";
 
-export const metadata: Metadata = { title: "Transporte" };
-
-function StopCard({ stop }: { stop: (typeof transitStops)[number] }) {
-  return <article className="card-surface p-5"><div className="flex items-start gap-3"><span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-[var(--leaf)] text-[var(--forest)]"><GuideIcon name="transport" /></span><div><p className="eyebrow">Ponto simulado</p><h2 className="mt-1 text-xl font-bold text-[var(--forest)]">{stop.name}</h2></div></div><p className="mt-3 text-sm leading-6 text-[var(--muted)]">{stop.reference}</p><div className="mt-3"><WalkingTime minutes={stop.walkingMinutes} compact /></div><div className="mt-5 space-y-3">{stop.lines.map((line) => <div key={line.id} className="rounded-xl border-l-4 border-[var(--brand-green)] bg-[var(--soft)] p-3"><div className="flex items-start justify-between gap-3"><strong className="text-[var(--forest)]">{line.number} · {line.name}</strong><span className="rounded-full bg-[var(--sand)] px-2 py-1 text-[10px] font-bold uppercase text-[var(--gold)]">demo</span></div><p className="mt-1 text-sm">{line.direction}</p><p className="mt-1 text-xs text-[var(--muted)]">{line.origin} → {line.destination}</p></div>)}</div><span className="mt-4 flex min-h-11 items-center justify-center rounded-xl border border-dashed border-[var(--line)] text-sm font-bold text-[var(--muted)]" aria-disabled="true">Link oficial futuro</span></article>;
-}
+export const metadata: Metadata = {
+  title: "Transporte",
+  description: "Linhas e pontos de ônibus oficiais em um raio de 1 km do Aroeira Office Park.",
+};
 
 export default function TransitPage() {
-  return <><MobileHeader title="Transporte" /><main id="conteudo" className="pb-24 lg:pb-14"><section className="brand-pattern border-b border-[var(--leaf-strong)]"><div className="page-shell py-10 lg:py-14"><p className="eyebrow">Estrutura de demonstração</p><h1 className="mt-2 text-4xl font-bold text-[var(--forest)] lg:text-5xl">Transporte próximo ao Aroeira</h1><p className="mt-3 max-w-3xl leading-7 text-[var(--muted)]">Esta página demonstra como pontos, caminhada, linhas, sentidos, origem e destino serão organizados. Nenhuma linha abaixo representa o levantamento oficial.</p><div className="mt-6 max-w-3xl"><SimulationNotice /></div></div></section><section className="page-shell grid gap-8 py-10 lg:grid-cols-[minmax(24rem,0.8fr)_minmax(34rem,1.2fr)]"><div><p className="eyebrow">Estrutura prevista</p><h2 className="mt-2 text-3xl font-bold text-[var(--forest)]">Pontos próximos simulados</h2><div className="mt-5 space-y-4">{transitStops.map((stop) => <StopCard key={stop.id} stop={stop} />)}</div></div><aside className="lg:sticky lg:top-24 lg:self-start"><div className="mb-4"><p className="eyebrow">Visualização</p><h2 className="mt-2 text-3xl font-bold text-[var(--forest)]">Representação estrutural</h2><p className="mt-2 text-sm text-[var(--muted)]">Posições ilustrativas, sem integração externa.</p></div><TransitMapPlaceholder stops={transitStops} /></aside></section></main><MobileNav active="transporte" /></>;
+  const publishedLines = transitData.lines.filter((line) => line.publicationStatus === "published");
+
+  return <>
+    <MobileHeader title="Transporte" />
+    <main id="conteudo" className="pb-24 lg:pb-0">
+      <section className="brand-pattern border-b border-[var(--leaf-strong)]">
+        <div className="page-shell py-10 lg:py-14">
+          <p className="eyebrow">Mobilidade no entorno</p>
+          <h1 className="mt-2 max-w-4xl text-4xl font-bold leading-tight text-[var(--forest)] lg:text-5xl">Encontre a linha e o ponto certo para o seu destino</h1>
+          <p className="mt-4 max-w-3xl leading-7 text-[var(--muted)]">Consulte linhas urbanas confirmadas pela URBS, compare sentidos e abra a localização do ponto recomendado sem depender de mapa incorporado.</p>
+
+          <div className="mt-7 grid max-w-3xl grid-cols-2 gap-3 sm:grid-cols-3">
+            <div className="card-surface p-4"><strong className="block text-3xl text-[var(--forest)]">{publishedLines.length}</strong><span className="mt-1 block text-xs font-medium text-[var(--muted)]">linhas confirmadas</span></div>
+            <div className="card-surface p-4"><strong className="block text-3xl text-[var(--forest)]">{transitData.stops.length}</strong><span className="mt-1 block text-xs font-medium text-[var(--muted)]">pontos oficiais</span></div>
+            <div className="card-surface col-span-2 p-4 sm:col-span-1"><strong className="block text-3xl text-[var(--forest)]">1 km</strong><span className="mt-1 block text-xs font-medium text-[var(--muted)]">raio analisado</span></div>
+          </div>
+
+          <aside aria-label="Critérios dos dados de transporte" className="mt-6 flex max-w-3xl items-start gap-3 rounded-xl border border-[var(--leaf-strong)] bg-white/80 px-4 py-3 text-sm text-[var(--forest-strong)]">
+            <GuideIcon name="info" className="mt-0.5 h-5 w-5 shrink-0" />
+            <p><strong>Dados oficiais validados em {transitData.metadata.validationDate}.</strong> As distâncias são calculadas em linha reta a partir do Aroeira; o percurso real a pé pode ser maior. A base consultada não informa acessibilidade.</p>
+          </aside>
+        </div>
+      </section>
+
+      <TransitExplorer data={transitData} />
+
+      <section className="border-t border-[var(--leaf-strong)] bg-[var(--forest-strong)] text-white">
+        <div className="page-shell grid gap-5 py-10 lg:grid-cols-[1fr_auto] lg:items-center">
+          <div><p className="text-xs font-bold uppercase tracking-[0.14em] text-[var(--sun)]">Antes de embarcar</p><h2 className="mt-2 text-2xl font-bold">Confirme horários no dia da viagem</h2><p className="mt-2 max-w-3xl text-sm leading-6 text-white/75">Linhas, pontos e sentidos podem mudar. Os botões de horários levam à consulta oficial da URBS; linhas metropolitanas usam a fonte da AMEP.</p></div>
+          <a href="https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/" target="_blank" rel="noopener noreferrer" className="button-light">Consultar URBS<GuideIcon name="arrow" className="h-4 w-4" /></a>
+        </div>
+      </section>
+    </main>
+    <MobileNav active="transporte" />
+  </>;
 }

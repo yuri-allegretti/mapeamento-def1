@@ -76,26 +76,69 @@ export type PartnerBenefit = {
   isActive: true;
 };
 
-export type MapPosition = { x: number; y: number };
+export type TransitPublicationStatus = "published" | "pending" | "excluded";
+
+export type TransitStopService = {
+  lineCode: string;
+  directions: string[];
+};
+
+export type TransitLineStop = {
+  stopId: string;
+  directions: string[];
+};
 
 export type TransitLine = {
-  id: string;
-  number: string;
+  system: "urban" | "metropolitan";
+  systemLabel: string;
+  code: string;
   name: string;
-  direction: string;
-  origin: string;
-  destination: string;
-  isSimulated: true;
+  category: string;
+  colorPattern?: string;
+  cardOnly: boolean | null;
+  officialStopCount: number | null;
+  directions: string[];
+  operationalStatus: string;
+  publicationStatus: TransitPublicationStatus;
+  publicationDecision: string;
+  sourceUrl: string;
+  sourceUpdatedAt: string;
+  scheduleUrl: string;
+  observations?: string;
+  stops: TransitLineStop[];
+  sourceRecord: { sheet: "Linhas"; row: number };
 };
 
 export type TransitStop = {
   id: string;
   name: string;
-  reference: string;
-  walkingMinutes: number;
-  walkingTimeStatus: "simulated";
-  mapPosition: MapPosition;
+  neighborhood?: string;
+  latitude: number;
+  longitude: number;
+  distanceMeters: number;
+  distanceBand: string;
+  stopType: string;
+  accessibility: string;
+  situation: string;
+  confidence: string;
+  mapUrl: string;
+  sourceUrl: string;
+  sourceUpdatedAt: string;
+  verifiedAt: string;
+  observations?: string;
+  services: TransitStopService[];
+  sourceRecord: { sheet: "Pontos oficiais"; row: number };
+};
+
+export type TransitDataset = {
+  metadata: {
+    referenceName: string;
+    referenceAddress: string;
+    radiusMeters: number;
+    distanceMethod: "geodesic-straight-line";
+    validationDate: string;
+    urbanSourceUpdatedAt?: string;
+  };
+  stops: TransitStop[];
   lines: TransitLine[];
-  officialUrl?: string;
-  isSimulated: true;
 };

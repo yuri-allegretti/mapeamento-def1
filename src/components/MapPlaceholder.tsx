@@ -1,6 +1,6 @@
 "use client";
 
-import type { MapPosition, TransitStop } from "@/data/types";
+type MapPosition = { x: number; y: number };
 
 type MapItem = { slug: string; name: string; mapPosition: MapPosition };
 
@@ -45,13 +45,4 @@ export function MapPlaceholder({
       </div>
     </section>
   );
-}
-
-export function TransitMapPlaceholder({ stops }: { stops: TransitStop[] }) {
-  const items = stops.map((stop) => ({
-    slug: stop.id,
-    name: stop.name,
-    mapPosition: stop.mapPosition,
-  }));
-  return <MapPlaceholder items={items} title="Representação dos pontos demonstrativos" />;
 }

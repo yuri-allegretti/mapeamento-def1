@@ -1,0 +1,4155 @@
+{
+  "metadata": {
+    "referenceName": "Aroeira Office Park",
+    "referenceAddress": "Av. Victor Ferreira do Amaral, 306, Tarumã, Curitiba",
+    "radiusMeters": 1000,
+    "distanceMethod": "geodesic-straight-line",
+    "validationDate": "12/08/2026",
+    "urbanSourceUpdatedAt": "12/08/2026"
+  },
+  "stops": [
+    {
+      "id": "130640",
+      "name": "Rua Madre Leonie, 523-591 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.428120280213,
+      "longitude": -49.239202172703,
+      "distanceMeters": 32,
+      "distanceBand": "Até 300 m",
+      "stopType": "Chapéu chinês",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42812028,-49.23920217",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 2
+      }
+    },
+    {
+      "id": "130977",
+      "name": "Rua Raphael Papa, 123 - Jardim Social, Curitiba - PR, 82530-190",
+      "neighborhood": "PR, 82530-190",
+      "latitude": -25.426843520453,
+      "longitude": -49.238876780515,
+      "distanceMeters": 155,
+      "distanceBand": "Até 300 m",
+      "stopType": "Placa em cano",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42684352,-49.23887678",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 3
+      }
+    },
+    {
+      "id": "130412",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 197 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.429452401161,
+      "longitude": -49.240590215868,
+      "distanceMeters": 184,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42945240,-49.24059022",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 4
+      }
+    },
+    {
+      "id": "130200",
+      "name": "Av. Victor Ferreira do Amaral, 247 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.427451702698,
+      "longitude": -49.23764515037,
+      "distanceMeters": 202,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42745170,-49.23764515",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 5
+      }
+    },
+    {
+      "id": "130375",
+      "name": "Av. Victor Ferreira do Amaral, 218 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.427748444197,
+      "longitude": -49.237301827616,
+      "distanceMeters": 227,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42774844,-49.23730183",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 6
+      }
+    },
+    {
+      "id": "130451",
+      "name": "Rua Papa Rafael, 374- Jardim Social",
+      "latitude": -25.426649891404,
+      "longitude": -49.237869114822,
+      "distanceMeters": 232,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42664989,-49.23786911",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 8
+      }
+    },
+    {
+      "id": "130405",
+      "name": "Rua Raul Joaquim Quadros Gomes, 85 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.430128232779,
+      "longitude": -49.2389634561,
+      "distanceMeters": 232,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43012823,-49.23896346",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 7
+      }
+    },
+    {
+      "id": "130406",
+      "name": "Rua Raul Joaquim Quadros Gomes, 405 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.429327650465,
+      "longitude": -49.236861945337,
+      "distanceMeters": 300,
+      "distanceBand": "Até 300 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42932765,-49.23686195",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 9
+      }
+    },
+    {
+      "id": "130450",
+      "name": "Rua Papa Rafael, 373 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.426282897446,
+      "longitude": -49.237256230062,
+      "distanceMeters": 305,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42628290,-49.23725623",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 10
+      }
+    },
+    {
+      "id": "130407",
+      "name": "Rua Raul Joaquim Quadros Gomes, 342 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.42939426493,
+      "longitude": -49.236821712202,
+      "distanceMeters": 307,
+      "distanceBand": "301–600 m",
+      "stopType": "Sem demarcação",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42939426,-49.23682171",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "A URBS registra o ponto sem demarcação física.",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 11
+      }
+    },
+    {
+      "id": "130758",
+      "name": "Rua Reinaldino S. de Quadros, 1671- Alto da Rua XV",
+      "latitude": -25.430685540027,
+      "longitude": -49.240997911638,
+      "distanceMeters": 323,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43068554,-49.24099791",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 12
+      }
+    },
+    {
+      "id": "130129",
+      "name": "Av. Nossa Sra. da Luz, 2561 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.42591,
+      "longitude": -49.24216,
+      "distanceMeters": 360,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42591000,-49.24216000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 13
+      }
+    },
+    {
+      "id": "130128",
+      "name": "Av. Nossa Sra. da Luz, 2562 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.4262,
+      "longitude": -49.242453906746,
+      "distanceMeters": 363,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42620000,-49.24245391",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 14
+      }
+    },
+    {
+      "id": "109048",
+      "name": "Estação Tubo Praça das Nações",
+      "latitude": -25.42592406059,
+      "longitude": -49.242351196663,
+      "distanceMeters": 374,
+      "distanceBand": "301–600 m",
+      "stopType": "Estação tubo",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42592406,-49.24235120",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "A linha X90 é serviço aos operadores; não divulgar como opção regular ao público.",
+      "services": [
+        {
+          "lineCode": "022",
+          "directions": [
+            "Horário"
+          ]
+        },
+        {
+          "lineCode": "023",
+          "directions": [
+            "Anti-Horário (Circular)"
+          ]
+        },
+        {
+          "lineCode": "307",
+          "directions": [
+            "Terminal Bairro Alto",
+            "Terminal Santa Felicidade"
+          ]
+        },
+        {
+          "lineCode": "X90",
+          "directions": [
+            "CIRCUITO 01"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 15
+      }
+    },
+    {
+      "id": "130366",
+      "name": "Rua Quinze de Novembro, 3101 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.42749,
+      "longitude": -49.24403,
+      "distanceMeters": 458,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42749000,-49.24403000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 16
+      }
+    },
+    {
+      "id": "130409",
+      "name": "Rua Alexandre de Gusmão, 1060 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.429939290988,
+      "longitude": -49.235314310736,
+      "distanceMeters": 469,
+      "distanceBand": "301–600 m",
+      "stopType": "Sem demarcação",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42993929,-49.23531431",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "A URBS registra o ponto sem demarcação física.",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 17
+      }
+    },
+    {
+      "id": "130148",
+      "name": "Av. Senador Souza Naves, 1710 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.432,
+      "longitude": -49.24134,
+      "distanceMeters": 470,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43200000,-49.24134000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 18
+      }
+    },
+    {
+      "id": "130408",
+      "name": "Rua Alexandre de Gusmão, 1075 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.42991506766,
+      "longitude": -49.235225797838,
+      "distanceMeters": 476,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42991507,-49.23522580",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 19
+      }
+    },
+    {
+      "id": "130956",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 611",
+      "latitude": -25.432350670086,
+      "longitude": -49.23861236588,
+      "distanceMeters": 481,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43235067,-49.23861237",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 20
+      }
+    },
+    {
+      "id": "130759",
+      "name": "Rua Reinaldino Schafemberg de Quadros, 1435 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.430483276342,
+      "longitude": -49.243559421247,
+      "distanceMeters": 484,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43048328,-49.24355942",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 21
+      }
+    },
+    {
+      "id": "130449",
+      "name": "Rua Papa Rafael, 654 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.425507725016,
+      "longitude": -49.234962941355,
+      "distanceMeters": 541,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42550773,-49.23496294",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 22
+      }
+    },
+    {
+      "id": "130893",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 602 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.432866817241,
+      "longitude": -49.238288880533,
+      "distanceMeters": 544,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43286682,-49.23828888",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 23
+      }
+    },
+    {
+      "id": "130203",
+      "name": "Av. Victor Ferreira do Amaral, 532 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.428080309334,
+      "longitude": -49.234032214827,
+      "distanceMeters": 551,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42808031,-49.23403221",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 24
+      }
+    },
+    {
+      "id": "130404",
+      "name": "Rua Professor Brandão, 1144 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.424825811397,
+      "longitude": -49.243672074026,
+      "distanceMeters": 554,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42482581,-49.24367207",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 25
+      }
+    },
+    {
+      "id": "130884",
+      "name": "Rua Gotlibe Rosenau, 70 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.432675457468,
+      "longitude": -49.237179787106,
+      "distanceMeters": 560,
+      "distanceBand": "301–600 m",
+      "stopType": "Placa em cano",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43267546,-49.23717979",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Cristo Rei"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 26
+      }
+    },
+    {
+      "id": "130374",
+      "name": "Rua Marechal Deodoro, 2812 - Centro",
+      "neighborhood": "Centro",
+      "latitude": -25.428147608557,
+      "longitude": -49.24519,
+      "distanceMeters": 569,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42814761,-49.24519000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 27
+      }
+    },
+    {
+      "id": "130127",
+      "name": "Av. Nossa Sra. da Luz, 2271 - Hugo Lange",
+      "neighborhood": "Hugo Lange",
+      "latitude": -25.423140930373,
+      "longitude": -49.241342449074,
+      "distanceMeters": 582,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42314093,-49.24134245",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "lineCode": "365",
+          "directions": [
+            "Jd. Social"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 28
+      }
+    },
+    {
+      "id": "130869",
+      "name": "Av. Victor Ferreira do Amaral, 611 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.427844128035,
+      "longitude": -49.23368218655,
+      "distanceMeters": 587,
+      "distanceBand": "301–600 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42784413,-49.23368219",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Mais de um registro do CSV converge para este ponto; mantido somente o registro mais preciso.",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 29
+      }
+    },
+    {
+      "id": "130126",
+      "name": "Av. Nossa Sra. da Luz, 2272 - Hugo Lange",
+      "neighborhood": "Hugo Lange",
+      "latitude": -25.423102236331,
+      "longitude": -49.24181062097,
+      "distanceMeters": 602,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42310224,-49.24181062",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 30
+      }
+    },
+    {
+      "id": "130413",
+      "name": "Rua Itupava, 1805- Alto da Glória",
+      "latitude": -25.423298456239,
+      "longitude": -49.242281348652,
+      "distanceMeters": 602,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42329846,-49.24228135",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 31
+      }
+    },
+    {
+      "id": "130878",
+      "name": "Av. São José, 1063 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.433446779633,
+      "longitude": -49.238060892767,
+      "distanceMeters": 612,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43344678,-49.23806089",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 32
+      }
+    },
+    {
+      "id": "130448",
+      "name": "Rua Papa Rafael, 791 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.425126193005,
+      "longitude": -49.234256179279,
+      "distanceMeters": 624,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42512619,-49.23425618",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 33
+      }
+    },
+    {
+      "id": "130411",
+      "name": "Rua Maria Ficinska, 130 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.431276411141,
+      "longitude": -49.234366149849,
+      "distanceMeters": 626,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Placa em poste",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43127641,-49.23436615",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 35
+      }
+    },
+    {
+      "id": "130410",
+      "name": "Rua Maria Ficinska, 155 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.431200108488,
+      "longitude": -49.234315187878,
+      "distanceMeters": 626,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43120011,-49.23431519",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 34
+      }
+    },
+    {
+      "id": "130311",
+      "name": "Av. São José, 1064 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.433578035967,
+      "longitude": -49.237952449074,
+      "distanceMeters": 629,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43357804,-49.23795245",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Cristo Rei"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 36
+      }
+    },
+    {
+      "id": "130147",
+      "name": "Av. Senador Souza Naves, 1242 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.43163,
+      "longitude": -49.24487,
+      "distanceMeters": 665,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43163000,-49.24487000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 37
+      }
+    },
+    {
+      "id": "130885",
+      "name": "Rua Frei Orlando, 1243 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.433204723951,
+      "longitude": -49.235330403989,
+      "distanceMeters": 706,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43320472,-49.23533040",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro",
+            "Cristo Rei"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 38
+      }
+    },
+    {
+      "id": "130414",
+      "name": "Rua Itupava, 1623- Alto da Glória",
+      "latitude": -25.423099813861,
+      "longitude": -49.244140119499,
+      "distanceMeters": 725,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42309981,-49.24414012",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 39
+      }
+    },
+    {
+      "id": "130403",
+      "name": "Rua Professor Brandão, 1008 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.424655029585,
+      "longitude": -49.245660932011,
+      "distanceMeters": 726,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42465503,-49.24566093",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 40
+      }
+    },
+    {
+      "id": "130130",
+      "name": "Av. São José, 807 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.43458,
+      "longitude": -49.2406,
+      "distanceMeters": 728,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43458000,-49.24060000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 41
+      }
+    },
+    {
+      "id": "130149",
+      "name": "Rua Oyapock, 336 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.4348,
+      "longitude": -49.23941,
+      "distanceMeters": 744,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43480000,-49.23941000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 42
+      }
+    },
+    {
+      "id": "130879",
+      "name": "Av. São José, 850 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.434730464729,
+      "longitude": -49.240612599688,
+      "distanceMeters": 745,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43473046,-49.24061260",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 43
+      }
+    },
+    {
+      "id": "130892",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 954 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.434587830417,
+      "longitude": -49.236723811573,
+      "distanceMeters": 774,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43458783,-49.23672381",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 44
+      }
+    },
+    {
+      "id": "130760",
+      "name": "Av. Sete de Setembro, 652-734 - Alto da XV",
+      "neighborhood": "Alto da XV",
+      "latitude": -25.430198653215,
+      "longitude": -49.247153581327,
+      "distanceMeters": 801,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43019865,-49.24715358",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 45
+      }
+    },
+    {
+      "id": "140200",
+      "name": "Rua Quinze de Novembro, 2783 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.427190085098,
+      "longitude": -49.247474105305,
+      "distanceMeters": 805,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42719009,-49.24747411",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 46
+      }
+    },
+    {
+      "id": "130978",
+      "name": "Rua Raphael Papa, 800 - Jardim Social, Curitiba - PR, 82530-190",
+      "neighborhood": "PR, 82530-190",
+      "latitude": -25.424588381324,
+      "longitude": -49.232452529219,
+      "distanceMeters": 811,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42458838,-49.23245253",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 47
+      }
+    },
+    {
+      "id": "130317",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 793 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.434846838961,
+      "longitude": -49.236298681444,
+      "distanceMeters": 816,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43484684,-49.23629868",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 48
+      }
+    },
+    {
+      "id": "130145",
+      "name": "Av. Senador Souza Naves, 1082 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.431466087779,
+      "longitude": -49.246799504299,
+      "distanceMeters": 821,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43146609,-49.24679950",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 49
+      }
+    },
+    {
+      "id": "130979",
+      "name": "Rua Raphael Papa, 852 - Jardim Social, Curitiba - PR, 82530-190",
+      "neighborhood": "PR, 82530-190",
+      "latitude": -25.424289697636,
+      "longitude": -49.232109291982,
+      "distanceMeters": 857,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42428970,-49.23210929",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 50
+      }
+    },
+    {
+      "id": "130131",
+      "name": "Av. São José, 598 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.435346088871,
+      "longitude": -49.242516968088,
+      "distanceMeters": 859,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43534609,-49.24251697",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 52
+      }
+    },
+    {
+      "id": "130868",
+      "name": "Rua Maria Ficinska, 382 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.431792794865,
+      "longitude": -49.232007139951,
+      "distanceMeters": 859,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43179279,-49.23200714",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar",
+            "Itupava"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 51
+      }
+    },
+    {
+      "id": "130132",
+      "name": "Av. São José, 587 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.435225811021,
+      "longitude": -49.242962536211,
+      "distanceMeters": 864,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43522581,-49.24296254",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 53
+      }
+    },
+    {
+      "id": "130333",
+      "name": "Rua Marechal Deodoro, 2400 - Centro",
+      "neighborhood": "Centro",
+      "latitude": -25.427916533799,
+      "longitude": -49.248138964176,
+      "distanceMeters": 866,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Chapéu chinês",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42791653,-49.24813896",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 54
+      }
+    },
+    {
+      "id": "130338",
+      "name": "Rua Arquimedes Cruz, 35- Jardim Social",
+      "latitude": -25.42030303977,
+      "longitude": -49.239157916254,
+      "distanceMeters": 868,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42030304,-49.23915792",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 55
+      }
+    },
+    {
+      "id": "130339",
+      "name": "Rua Arquimedes Cruz, 52 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.420294560929,
+      "longitude": -49.238697917408,
+      "distanceMeters": 873,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42029456,-49.23869792",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Jd. Social"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 56
+      }
+    },
+    {
+      "id": "130124",
+      "name": "Av. Nossa Sra. da Luz, 1932 - Hugo Lange",
+      "neighborhood": "Hugo Lange",
+      "latitude": -25.420220338188,
+      "longitude": -49.239922186508,
+      "distanceMeters": 878,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42022034,-49.23992219",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 57
+      }
+    },
+    {
+      "id": "130415",
+      "name": "Rua Itupava, 1428 - Alto da Glória",
+      "neighborhood": "Alto da Glória",
+      "latitude": -25.422918128472,
+      "longitude": -49.24616652841,
+      "distanceMeters": 882,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42291813,-49.24616653",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "365",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "lineCode": "366",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 58
+      }
+    },
+    {
+      "id": "130888",
+      "name": "Av. Mal. Humberto de Alencar Castelo Branco, 954 - Jardim Social",
+      "neighborhood": "Jardim Social",
+      "latitude": -25.434759809272,
+      "longitude": -49.234598160929,
+      "distanceMeters": 890,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43475981,-49.23459816",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Centro"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 59
+      }
+    },
+    {
+      "id": "130207",
+      "name": "Av. Victor Ferreira do Amaral, 900 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.428446100642,
+      "longitude": -49.230623870971,
+      "distanceMeters": 894,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42844610,-49.23062387",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "020",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 60
+      }
+    },
+    {
+      "id": "130125",
+      "name": "Av. Nossa Sra. da Luz, 931 - Hugo Lange",
+      "neighborhood": "Hugo Lange",
+      "latitude": -25.41999,
+      "longitude": -49.23958,
+      "distanceMeters": 902,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.41999000,-49.23958000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 61
+      }
+    },
+    {
+      "id": "130208",
+      "name": "Av. Victor Ferreira do Amaral, 2720 - Tarumã",
+      "neighborhood": "Tarumã",
+      "latitude": -25.428264409307,
+      "longitude": -49.230169833845,
+      "distanceMeters": 939,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42826441,-49.23016983",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Mais de um registro do CSV converge para este ponto; mantido somente o registro mais preciso.",
+      "services": [
+        {
+          "lineCode": "021",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 62
+      }
+    },
+    {
+      "id": "130761",
+      "name": "Rua Reinaldino Schafemberg de Quadros, 896 - Alto da Rua XV",
+      "neighborhood": "Alto da Rua XV",
+      "latitude": -25.430076325622,
+      "longitude": -49.248702557034,
+      "distanceMeters": 948,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43007633,-49.24870256",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "386",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 63
+      }
+    },
+    {
+      "id": "130140",
+      "name": "Rua Padre Germano Maier, 1039 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.42619,
+      "longitude": -49.24874,
+      "distanceMeters": 950,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42619000,-49.24874000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV. A linha 220 está ativa, mas o feed contém uma variante com anotação operacional de possível desativação; confirmar antes de publicar.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "lineCode": "220",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 64
+      }
+    },
+    {
+      "id": "130138",
+      "name": "Rua Padre Germano Maier, 711 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.428806708195,
+      "longitude": -49.249060233135,
+      "distanceMeters": 961,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42880671,-49.24906023",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV. A linha 220 está ativa, mas o feed contém uma variante com anotação operacional de possível desativação; confirmar antes de publicar.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "lineCode": "220",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 65
+      }
+    },
+    {
+      "id": "130141",
+      "name": "Rua Padre Germano Maier, 1017 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.42632,
+      "longitude": -49.24894,
+      "distanceMeters": 966,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42632000,-49.24894000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV. A linha 220 está ativa, mas o feed contém uma variante com anotação operacional de possível desativação; confirmar antes de publicar.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "220",
+          "directions": [
+            "Terminal Hauer (chegada)",
+            "Terminal Hauer (desativar se mantiver Hauer-C)"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 66
+      }
+    },
+    {
+      "id": "130133",
+      "name": "Av. São José, 372 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.435381144503,
+      "longitude": -49.244814285879,
+      "distanceMeters": 968,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43538114,-49.24481429",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "385",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 67
+      }
+    },
+    {
+      "id": "130139",
+      "name": "Rua Padre Germano Maier, 712 - Cristo Rei",
+      "neighborhood": "Cristo Rei",
+      "latitude": -25.42897,
+      "longitude": -49.2492,
+      "distanceMeters": 977,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42897000,-49.24920000",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV. A linha 220 está ativa, mas o feed contém uma variante com anotação operacional de possível desativação; confirmar antes de publicar.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "220",
+          "directions": [
+            "Terminal Hauer (chegada)",
+            "Terminal Hauer (desativar se mantiver Hauer-C)"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 68
+      }
+    },
+    {
+      "id": "130373",
+      "name": "Rua Marechal Deodoro, 2374- Centro",
+      "latitude": -25.427823537848,
+      "longitude": -49.249283255285,
+      "distanceMeters": 981,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.42782354,-49.24928326",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "371",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "372",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "lineCode": "380",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "lineCode": "389",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 69
+      }
+    },
+    {
+      "id": "130144",
+      "name": "Av. Sen. Souza Naves, 837-899 - Alto da XV",
+      "neighborhood": "Alto da XV",
+      "latitude": -25.43131627069,
+      "longitude": -49.248765597553,
+      "distanceMeters": 994,
+      "distanceBand": "601–1.000 m",
+      "stopType": "Novo mobiliário",
+      "accessibility": "Não informada na base consultada",
+      "situation": "Confirmado — presente na base oficial URBS",
+      "confidence": "Alta",
+      "mapUrl": "https://www.google.com/maps?q=-25.43131627,-49.24876560",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_pontosLinha.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "verifiedAt": "12/08/2026",
+      "observations": "Parada oficial localizada pela URBS e ausente do CSV.",
+      "services": [
+        {
+          "lineCode": "216",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "lineCode": "386",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "lineCode": "387",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Pontos oficiais",
+        "row": 70
+      }
+    }
+  ],
+  "lines": [
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "020",
+      "name": "INTERBAIRROS II (HORÁRIO)",
+      "category": "INTERBAIRROS",
+      "colorPattern": "VERDE",
+      "cardOnly": true,
+      "officialStopCount": 6,
+      "directions": [
+        "Sentido Horário"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130375",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "stopId": "130128",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "stopId": "130126",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "stopId": "130124",
+          "directions": [
+            "Sentido Horário"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "Sentido Horário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 2
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "021",
+      "name": "INTERBAIRROS II (ANTI-HORÁRIO)",
+      "category": "INTERBAIRROS",
+      "colorPattern": "VERDE",
+      "cardOnly": true,
+      "officialStopCount": 6,
+      "directions": [
+        "Anti-Horário"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "stopId": "130129",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "stopId": "130127",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "stopId": "130125",
+          "directions": [
+            "Anti-Horário"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "Anti-Horário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 3
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "022",
+      "name": "INTER 2 (HORÁRIO)",
+      "category": "LINHA DIRETA",
+      "colorPattern": "PRATA",
+      "cardOnly": false,
+      "officialStopCount": 1,
+      "directions": [
+        "Horário"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "109048",
+          "directions": [
+            "Horário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 4
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "023",
+      "name": "INTER 2 ( ANTI-HORÁRIO)",
+      "category": "LINHA DIRETA",
+      "colorPattern": "PRATA",
+      "cardOnly": false,
+      "officialStopCount": 1,
+      "directions": [
+        "Anti-Horário (Circular)"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "109048",
+          "directions": [
+            "Anti-Horário (Circular)"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 5
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "216",
+      "name": "CABRAL / PORTÃO",
+      "category": "ALIMENTADOR",
+      "colorPattern": "LARANJA",
+      "cardOnly": true,
+      "officialStopCount": 9,
+      "directions": [
+        "Terminal Cabral",
+        "Terminal Portão"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130148",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130147",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130149",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130145",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130140",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "stopId": "130138",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "stopId": "130141",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130139",
+          "directions": [
+            "Terminal Portão"
+          ]
+        },
+        {
+          "stopId": "130144",
+          "directions": [
+            "Terminal Portão"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 6
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "220",
+      "name": "CABRAL/HAUER",
+      "category": "LINHA DIRETA",
+      "colorPattern": "PRATA",
+      "cardOnly": true,
+      "officialStopCount": 4,
+      "directions": [
+        "Terminal Cabral",
+        "Terminal Hauer (chegada)",
+        "Terminal Hauer (desativar se mantiver Hauer-C)"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "pending",
+      "publicationDecision": "Após conferência",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "observations": "Linha ativa; uma variante do feed contém anotação interna de possível desativação.",
+      "stops": [
+        {
+          "stopId": "130140",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "stopId": "130138",
+          "directions": [
+            "Terminal Cabral"
+          ]
+        },
+        {
+          "stopId": "130141",
+          "directions": [
+            "Terminal Hauer (chegada)",
+            "Terminal Hauer (desativar se mantiver Hauer-C)"
+          ]
+        },
+        {
+          "stopId": "130139",
+          "directions": [
+            "Terminal Hauer (chegada)",
+            "Terminal Hauer (desativar se mantiver Hauer-C)"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 7
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "307",
+      "name": "B. ALTO / STA. FELICIDADE",
+      "category": "LINHA DIRETA",
+      "colorPattern": "PRATA",
+      "cardOnly": false,
+      "officialStopCount": 1,
+      "directions": [
+        "Terminal Bairro Alto",
+        "Terminal Santa Felicidade"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "109048",
+          "directions": [
+            "Terminal Bairro Alto",
+            "Terminal Santa Felicidade"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 8
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "365",
+      "name": "JD. SOCIAL / BATEL",
+      "category": "CONVENCIONAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 10,
+      "directions": [
+        "Batel",
+        "Jd. Social"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130404",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "stopId": "130127",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "stopId": "130126",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "stopId": "130413",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "stopId": "130414",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "stopId": "130403",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "stopId": "130338",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "stopId": "130339",
+          "directions": [
+            "Jd. Social"
+          ]
+        },
+        {
+          "stopId": "130124",
+          "directions": [
+            "Batel"
+          ]
+        },
+        {
+          "stopId": "130415",
+          "directions": [
+            "Batel"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 9
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "366",
+      "name": "ITUPAVA / HOSP. MILITAR",
+      "category": "CONVENCIONAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 17,
+      "directions": [
+        "Hosp. Militar",
+        "Itupava"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130640",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130412",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130405",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130406",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130407",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130129",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130128",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130409",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130408",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130404",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130413",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130411",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130410",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130414",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        },
+        {
+          "stopId": "130403",
+          "directions": [
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130868",
+          "directions": [
+            "Hosp. Militar",
+            "Itupava"
+          ]
+        },
+        {
+          "stopId": "130415",
+          "directions": [
+            "Hosp. Militar"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 10
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "371",
+      "name": "HIGIENÓPOLIS",
+      "category": "TRONCAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 13,
+      "directions": [
+        "Praça Santos Andrade",
+        "Terminal Bairro Alto"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130640",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130977",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130451",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130450",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130449",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130448",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130978",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130979",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 11
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "372",
+      "name": "TARUMÃ",
+      "category": "TRONCAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "Bairro Alto",
+        "Praça Carlos Gomes"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130375",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 12
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "373",
+      "name": "ALTO TARUMÃ",
+      "category": "TRONCAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "Praça Carlos Gomes",
+        "Terminal Bairro Alto"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 13
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "375",
+      "name": "SAGRADO CORAÇÃO",
+      "category": "TRONCAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "Praça Santos Andrade",
+        "Terminal Bairro Alto"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130375",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "Praça Santos Andrade"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "Terminal Bairro Alto"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 14
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "380",
+      "name": "DETRAN / VIC. MACHADO",
+      "category": "CONVENCIONAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "Detran",
+        "V. Machado"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "stopId": "130375",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "Detran"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "V. Machado"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "Detran"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 15
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "385",
+      "name": "CRISTO REI",
+      "category": "CONVENCIONAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "Centro",
+        "Cristo Rei"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130884",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "stopId": "130878",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "stopId": "130311",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "stopId": "130885",
+          "directions": [
+            "Centro",
+            "Cristo Rei"
+          ]
+        },
+        {
+          "stopId": "130130",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "stopId": "130879",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "stopId": "130317",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "stopId": "130131",
+          "directions": [
+            "Cristo Rei"
+          ]
+        },
+        {
+          "stopId": "130132",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "stopId": "130888",
+          "directions": [
+            "Centro"
+          ]
+        },
+        {
+          "stopId": "130133",
+          "directions": [
+            "Cristo Rei"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 16
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "386",
+      "name": "CAJURU",
+      "category": "CONVENCIONAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 13,
+      "directions": [
+        "Cajuru",
+        "Praça Carlos Gomes"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130412",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130758",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130148",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "stopId": "130956",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130759",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130893",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "stopId": "130147",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "stopId": "130892",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "stopId": "130760",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130317",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130145",
+          "directions": [
+            "Cajuru"
+          ]
+        },
+        {
+          "stopId": "130761",
+          "directions": [
+            "Praça Carlos Gomes"
+          ]
+        },
+        {
+          "stopId": "130144",
+          "directions": [
+            "Cajuru"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 17
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "387",
+      "name": "PALOTINOS",
+      "category": "TRONCAL",
+      "colorPattern": "AMARELA",
+      "cardOnly": true,
+      "officialStopCount": 10,
+      "directions": [
+        "Praça Rui Barbosa",
+        "Terminal Centenário"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "stops": [
+        {
+          "stopId": "130878",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        },
+        {
+          "stopId": "130130",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        },
+        {
+          "stopId": "130149",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        },
+        {
+          "stopId": "130879",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        },
+        {
+          "stopId": "130317",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        },
+        {
+          "stopId": "130145",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        },
+        {
+          "stopId": "130131",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        },
+        {
+          "stopId": "130132",
+          "directions": [
+            "Praça Rui Barbosa"
+          ]
+        },
+        {
+          "stopId": "130133",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        },
+        {
+          "stopId": "130144",
+          "directions": [
+            "Terminal Centenário"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 18
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "389",
+      "name": "MAD. TARUMÃ / AUGUSTA",
+      "category": "MADRUGUEIRO",
+      "colorPattern": "MADRUGUEIRO",
+      "cardOnly": true,
+      "officialStopCount": 11,
+      "directions": [
+        "C.Gomes/Tarumã circular"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "published",
+      "publicationDecision": "Sim",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "observations": "Serviço madrugueiro/noturno; conferir horários antes de divulgar.",
+      "stops": [
+        {
+          "stopId": "130200",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130375",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130366",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130203",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130374",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130869",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "140200",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130333",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130207",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130208",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        },
+        {
+          "stopId": "130373",
+          "directions": [
+            "C.Gomes/Tarumã circular"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 19
+      }
+    },
+    {
+      "system": "urban",
+      "systemLabel": "Urbano — URBS",
+      "code": "X90",
+      "name": "CIRCUITO 01",
+      "category": "SERVIÇO AOS OPERADORES",
+      "colorPattern": "TURISMO",
+      "cardOnly": false,
+      "officialStopCount": 1,
+      "directions": [
+        "CIRCUITO 01"
+      ],
+      "operationalStatus": "Ativa na base oficial URBS",
+      "publicationStatus": "excluded",
+      "publicationDecision": "Não",
+      "sourceUrl": "https://dadosabertos.c3sl.ufpr.br/curitibaurbs/2026_08_12_linhas.json.xz",
+      "sourceUpdatedAt": "12/08/2026",
+      "scheduleUrl": "https://www.urbs.curitiba.pr.gov.br/horario-de-onibus/",
+      "observations": "Serviço aos operadores; não é uma opção regular para funcionários ou visitantes.",
+      "stops": [
+        {
+          "stopId": "109048",
+          "directions": [
+            "CIRCUITO 01"
+          ]
+        }
+      ],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 20
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "B03",
+      "name": "GUARAITUBA / ALTO DA XV (via T. MARACANÃ)",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "30/03/2026",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 21
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "C03",
+      "name": "PINHAIS / GUADALUPE",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "26/05/2024",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 22
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "D01",
+      "name": "PIRAQUARA / SANTOS ANDRADE (via T. SÃO ROQUE)",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "01/04/2026",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 23
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "D02",
+      "name": "T. SÃO ROQUE / SANTOS ANDRADE",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "23/08/2025",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 24
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "D66",
+      "name": "PIRAQUARA / SANTOS ANDRADE (DIRETO)",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "23/07/2025",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 25
+      }
+    },
+    {
+      "system": "metropolitan",
+      "systemLabel": "Metropolitano — AMEP",
+      "code": "D69",
+      "name": "MADRUGUEIRO CURITIBA / PIRAQUARA",
+      "category": "Metropolitana",
+      "cardOnly": null,
+      "officialStopCount": null,
+      "directions": [
+        "Não associar a uma parada específica sem confirmação"
+      ],
+      "operationalStatus": "Linha presente na relação atual da AMEP; parada no raio ainda não validada em base oficial georreferenciada",
+      "publicationStatus": "pending",
+      "publicationDecision": "Somente após confirmar a parada",
+      "sourceUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "sourceUpdatedAt": "24/03/2020",
+      "scheduleUrl": "https://www.amep.pr.gov.br/linhasehorarios",
+      "observations": "A existência da linha foi confirmada; a associação a um ponto específico próximo ao AOP permanece pendente.",
+      "stops": [],
+      "sourceRecord": {
+        "sheet": "Linhas",
+        "row": 26
+      }
+    }
+  ]
+}

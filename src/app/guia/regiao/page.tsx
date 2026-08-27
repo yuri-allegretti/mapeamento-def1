@@ -8,7 +8,7 @@ import { MobileHeader } from "@/components/MobileHeader";
 import { MobileNav } from "@/components/MobileNav";
 import { RegionExplorer } from "@/components/RegionExplorer";
 import { getAllEstablishments } from "@/data";
-import { transitStops } from "@/data/transit";
+import { publishedTransitLines, transitStops } from "@/data/transit";
 
 export const metadata: Metadata = { title: "Conheça a região", description: "Estabelecimentos verificados no entorno do Aroeira Office Park." };
 
@@ -20,7 +20,7 @@ export default function RegionPage() {
     [establishments.length, "estabelecimentos"],
     [categories, "categorias"],
     [0, "parcerias ativas"],
-    [transitStops.length, "pontos demonstrativos"],
+    [transitStops.length, "pontos de ônibus"],
   ];
 
   return <><MobileHeader title="Região" /><main id="conteudo" className="pb-24 lg:pb-0">
@@ -39,6 +39,6 @@ export default function RegionPage() {
 
     <section className="page-shell py-10 lg:hidden"><h2 className="text-2xl font-bold text-[var(--forest)]">Mais próximos</h2><div className="mt-4 grid gap-3">{featured.map((item) => <div key={item.slug} className="card-surface p-4"><p className="eyebrow">{item.primaryCategoryLabel}</p><p className="mt-1 font-bold text-[var(--forest)]">{item.name}</p><div className="mt-2"><Distance meters={item.distanceMeters} compact /></div></div>)}</div></section>
 
-    <section className="brand-pattern border-y border-[var(--leaf-strong)]"><div className="page-shell grid gap-6 py-11 lg:grid-cols-[1fr_auto] lg:items-center"><div><p className="eyebrow">Transporte demonstrativo</p><h2 className="mt-2 text-3xl font-bold text-[var(--forest)]">Estrutura aguardando dados oficiais</h2><p className="mt-3 max-w-3xl leading-7 text-[var(--muted)]">Os estabelecimentos já usam a base consolidada; pontos e linhas continuam simulados e identificados como tal.</p></div><Link href="/guia/transporte" className="button-secondary">Ver transporte <GuideIcon name="arrow" className="h-4 w-4" /></Link></div></section>
+    <section className="brand-pattern border-y border-[var(--leaf-strong)]"><div className="page-shell grid gap-6 py-11 lg:grid-cols-[1fr_auto] lg:items-center"><div><p className="eyebrow">Transporte confirmado</p><h2 className="mt-2 text-3xl font-bold text-[var(--forest)]">{publishedTransitLines.length} linhas urbanas no entorno</h2><p className="mt-3 max-w-3xl leading-7 text-[var(--muted)]">Consulte os {transitStops.length} pontos oficiais em um raio de 1 km, encontre o sentido correto e abra a localização do embarque.</p></div><Link href="/guia/transporte" className="button-secondary">Ver transporte <GuideIcon name="arrow" className="h-4 w-4" /></Link></div></section>
   </main><MobileNav active="região" /></>;
 }
